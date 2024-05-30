@@ -1,0 +1,74 @@
+Match No,Match Day,Date,Time,Home Team,Away Team,Venue
+1,Sat,26-Mar-22,7:30 PM,Chennai Super Kings,Kolkata Knight Riders,Wankhede Stadium
+2,Sun,27-Mar-22,3:30 PM,Delhi Capitals,Royal Challengers Bangalore,Brabourne CCI
+3,Sun,27-Mar-22,7:30 PM,Punjab Kings,Kolkata Knight Riders,DY Patil Stadium
+4,Mon,28-Mar-22,7:30 PM,Gujarat Titans,Lucknow Super Giants,Wankhede Stadium
+5,Tue,29-Mar-22,7:30 PM,Sunrisers Hyderabad,Rajasthan Royals,MCA Stadium, Pune
+6,Wed,30-Mar-22,7:30 PM,Royal Challengers Bangalore,Kolkata Knight Riders,DY Patil Stadium
+7,Thu,31-Mar-22,7:30 PM,Lucknow Super Giants,Chennai Super Kings,Brabourne CCI
+8,Fri,01-Apr-22,7:30 PM,Kolkata Knight Riders,Punjab Kings,Wankhede Stadium
+9,Sat,02-Apr-22,3:30 PM,Mumbai Indians,Rajasthan Royals,DY Patil Stadium
+10,Sat,02-Apr-22,7:30 PM,Gujarat Titans,Delhi Capitals,MCA Stadium, Pune
+11,Sun,03-Apr-22,7:30 PM,Chennai Super Kings,Punjab Kings,Brabourne CCI
+12,Mon,04-Apr-22,7:30 PM,Sunrisers Hyderabad,Lucknow Super Giants,DY Patil Stadium
+13,Tue,05-Apr-22,7:30 PM,Rajasthan Royals,Royal Challengers Bangalore,Wankhede Stadium
+14,Wed,06-Apr-22,7:30 PM,Kolkata Knight Riders,Mumbai Indians,MCA Stadium, Pune
+15,Thu,07-Apr-22,7:30 PM,Lucknow Super Giants,Delhi Capitals,DY Patil Stadium
+16,Fri,08-Apr-22,7:30 PM,Punjab Kings,Gujarat Titans,Brabourne CCI
+17,Sat,09-Apr-22,3:30 PM,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium
+18,Sat,09-Apr-22,7:30 PM,Royal Challengers Bangalore,Mumbai Indians,DY Patil Stadium
+19,Sun,10-Apr-22,3:30 PM,Kolkata Knight Riders,Delhi Capitals,MCA Stadium, Pune
+20,Sun,10-Apr-22,7:30 PM,Rajasthan Royals,Lucknow Super Giants,DY Patil Stadium
+21,Mon,11-Apr-22,7:30 PM,Sunrisers Hyderabad,Gujarat Titans,Brabourne CCI
+22,Tue,12-Apr-22,7:30 PM,Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium
+23,Wed,13-Apr-22,7:30 PM,Mumbai Indians,Punjab Kings,DY Patil Stadium
+24,Thu,14-Apr-22,7:30 PM,Rajasthan Royals,Gujarat Titans,MCA Stadium, Pune
+25,Fri,15-Apr-22,7:30 PM,Sunrisers Hyderabad,Kolkata Knight Riders,Brabourne CCI
+26,Sat,16-Apr-22,3:30 PM,Mumbai Indians,Lucknow Super Giants,DY Patil Stadium
+27,Sat,16-Apr-22,7:30 PM,Delhi Capitals,Sunrisers Hyderabad,Brabourne CCI
+28,Sun,17-Apr-22,3:30 PM,Punjab Kings,Royal Challengers Bangalore,Wankhede Stadium
+29,Sun,17-Apr-22,7:30 PM,Gujarat Titans,Chennai Super Kings,DY Patil Stadium
+30,Mon,18-Apr-22,7:30 PM,Rajasthan Royals,Kolkata Knight Riders,MCA Stadium, Pune
+31,Tue,19-Apr-22,7:30 PM,Lucknow Super Giants,Royal Challengers Bangalore,DY Patil Stadium
+32,Wed,20-Apr-22,7:30 PM,Delhi Capitals,Punjab Kings,Brabourne CCI
+33,Thu,21-Apr-22,7:30 PM,Mumbai Indians,Chennai Super Kings,Wankhede Stadium
+34,Fri,22-Apr-22,7:30 PM,Delhi Capitals,Kolkata Knight Riders,MCA Stadium, Pune
+35,Sat,23-Apr-22,3:30 PM,Punjab Kings,Royal Challengers Bangalore,DY Patil Stadium
+36,Sat,23-Apr-22,7:30 PM,Gujarat Titans,Sunrisers Hyderabad,Brabourne CCI
+37,Sun,24-Apr-22,7:30 PM,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium
+38,Mon,25-Apr-22,7:30 PM,Lucknow Super Giants,Chennai Super Kings,DY Patil Stadium
+39,Tue,26-Apr-22,7:30 PM,Rajasthan Royals,Gujarat Titans,MCA Stadium, Pune
+40,Wed,27-Apr-22,7:30 PM,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium
+41,Thu,28-Apr-22,7:30 PM,Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium
+42,Fri,29-Apr-22,7:30 PM,Punjab Kings,Lucknow Super Giants,MCA Stadium, Pune
+43,Sat,30-Apr-22,3:30 PM,Gujarat Titans,Royal Challengers Bangalore,Brabourne CCI
+44,Sat,30-Apr-22,7:30 PM,Rajasthan Royals,Mumbai Indians,DY Patil Stadium
+45,Sun,01-May-22,3:30 PM,Delhi Capitals,Lucknow Super Giants,Wankhede Stadium
+46,Sun,01-May-22,7:30 PM,Sunrisers Hyderabad,Chennai Super Kings,MCA Stadium, Pune
+47,Mon,02-May-22,7:30 PM,Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium
+48,Tue,03-May-22,7:30 PM,Gujarat Titans,Punjab Kings,Brabourne CCI
+49,Wed,04-May-22,7:30 PM,Royal Challengers Bangalore,Chennai Super Kings,DY Patil Stadium
+50,Thu,05-May-22,7:30 PM,Delhi Capitals,Sunrisers Hyderabad,MCA Stadium, Pune
+51,Fri,06-May-22,7:30 PM,Gujarat Titans,Mumbai Indians,Brabourne CCI
+52,Sat,07-May-22,3:30 PM,Punjab Kings,Rajasthan Royals,Wankhede Stadium
+53,Sat,07-May-22,7:30 PM,Lucknow Super Giants,Kolkata Knight Riders,DY Patil Stadium
+54,Sun,08-May-22,3:30 PM,Sunrisers Hyderabad,Royal Challengers Bangalore,MCA Stadium, Pune
+55,Sun,08-May-22,7:30 PM,Chennai Super Kings,Delhi Capitals,Wankhede Stadium
+56,Mon,09-May-22,7:30 PM,Mumbai Indians,Kolkata Knight Riders,DY Patil Stadium
+57,Tue,10-May-22,7:30 PM,Lucknow Super Giants,Gujarat Titans,Brabourne CCI
+58,Wed,11-May-22,7:30 PM,Rajasthan Royals,Delhi Capitals,Wankhede Stadium
+59,Thu,12-May-22,7:30 PM,Chennai Super Kings,Mumbai Indians,DY Patil Stadium
+60,Fri,13-May-22,7:30 PM,Royal Challengers Bangalore,Punjab Kings,MCA Stadium, Pune
+61,Sat,14-May-22,7:30 PM,Kolkata Knight Riders,Sunrisers Hyderabad,Brabourne CCI
+62,Sun,15-May-22,3:30 PM,Chennai Super Kings,Gujarat Titans,Wankhede Stadium
+63,Sun,15-May-22,7:30 PM,Lucknow Super Giants,Rajasthan Royals,DY Patil Stadium
+64,Mon,16-May-22,7:30 PM,Punjab Kings,Delhi Capitals,Brabourne CCI
+65,Tue,17-May-22,7:30 PM,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium
+66,Wed,18-May-22,7:30 PM,Kolkata Knight Riders,Lucknow Super Giants,DY Patil Stadium
+67,Thu,19-May-22,7:30 PM,Royal Challengers Bangalore,Gujarat Titans,MCA Stadium, Pune
+68,Fri,20-May-22,7:30 PM,Rajasthan Royals,Chennai Super Kings,Brabourne CCI
+69,Sat,21-May-22,7:30 PM,Mumbai Indians,Delhi Capitals,Wankhede Stadium
+70,Sun,22-May-22,7:30 PM,Sunrisers Hyderabad,Punjab Kings,DY Patil Stadium
+""
+The winner of IPL 2022 is:
+2022

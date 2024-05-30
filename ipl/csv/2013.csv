@@ -1,0 +1,78 @@
+Day,Date,Match,Time,Team,Team,Venue
+Wed,03-Apr,1,8pm,Kolkata Knight Riders,Delhi Daredevils,Kolkata
+Thu,04-Apr,2,8pm,Royal Challengers Bangalore,Mumbai Indians,Bangalore
+Fri,05-Apr,3,8pm,Sunrisers Hyderabad,Pune Warriors India,Hyderabad
+Sat,06-Apr,4,4pm,Delhi Daredevils,Rajasthan Royals,Delhi
+Sat,06-Apr,5,8pm,Chennai Super Kings,Mumbai Indians,Chennai
+Sun,07-Apr,6,4pm,Pune Warriors India,Royal Challengers Bangalore,Pune
+Sun,07-Apr,7,8pm,Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad
+Mon,08-Apr,8,8pm,Rajasthan Royals,Kings XI Punjab,Jaipur
+Tue,09-Apr,9,8pm,Mumbai Indians,Delhi Daredevils,Mumbai
+Wed,10-Apr,10,8pm,Kings XI Punjab,Chennai Super Kings,Mohali
+Thu,11-Apr,11,4pm,Royal Challengers Bangalore,Kolkata Knight Riders,Bangalore
+Thu,11-Apr,12,8pm,Pune Warriors India,Rajasthan Royals,Pune
+Fri,12-Apr,13,8pm,Delhi Daredevils,Sunrisers Hyderabad,Delhi
+Sat,13-Apr,14,4pm,Mumbai Indians,Pune Warriors India,Mumbai
+Sat,13-Apr,15,8pm,Chennai Super Kings,Royal Challengers Bangalore,Chennai
+Sun,14-Apr,16,4pm,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata
+Sun,14-Apr,17,8pm,Rajasthan Royals,Kings XI Punjab,Jaipur
+Mon,15-Apr,18,8pm,Chennai Super Kings,Kings XI Punjab,Chennai
+Tue,16-Apr,19,4pm,Kings XI Punjab,Royal Challengers Bangalore,Mohali
+Tue,16-Apr,20,8pm,Rajasthan Royals,Pune Warriors India,Jaipur
+Wed,17-Apr,21,4pm,Delhi Daredevils,Kolkata Knight Riders,Delhi
+Wed,17-Apr,22,8pm,Pune Warriors India,Sunrisers Hyderabad,Pune
+Thu,18-Apr,23,8pm,Delhi Daredevils,Mumbai Indians,Delhi
+Fri,19-Apr,24,8pm,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad
+Sat,20-Apr,25,4pm,Royal Challengers Bangalore,Rajasthan Royals,Bangalore
+Sat,20-Apr,26,8pm,Kolkata Knight Riders,Mumbai Indians,Kolkata
+Sun,21-Apr,27,4pm,Delhi Daredevils,Chennai Super Kings,Delhi
+Sun,21-Apr,28,8pm,Kings XI Punjab,Pune Warriors India,Mohali
+Mon,22-Apr,29,8pm,Chennai Super Kings,Rajasthan Royals,Chennai
+Tue,23-Apr,30,4pm,Kings XI Punjab,Delhi Daredevils,Mohali
+Tue,23-Apr,31,8pm,Royal Challengers Bangalore,Pune Warriors India,Bangalore
+Wed,24-Apr,32,8pm,Kolkata Knight Riders,Mumbai Indians,Kolkata
+Thu,25-Apr,33,8pm,Chennai Super Kings,Sunrisers Hyderabad,Chennai
+Fri,26-Apr,34,8pm,Kolkata Knight Riders,Kings XI Punjab,Kolkata
+Sat,27-Apr,35,4pm,Rajasthan Royals,Sunrisers Hyderabad,Jaipur
+Sat,27-Apr,36,8pm,Mumbai Indians,Royal Challengers Bangalore,Mumbai
+Sun,28-Apr,37,4pm,Chennai Super Kings,Delhi Daredevils,Chennai
+Sun,28-Apr,38,8pm,Delhi Daredevils,Kolkata Knight Riders,Raipur
+Mon,29-Apr,39,4pm,Rajasthan Royals,Royal Challengers Bangalore,Jaipur
+Mon,29-Apr,40,8pm,Mumbai Indians,Kings XI Punjab,Mumbai
+Tue,30-Apr,41,8pm,Pune Warriors India,Chennai Super Kings,Pune
+Tue,30-Apr,42,4pm,Sunrisers Hyderabad,Mumbai Indians,Hyderabad
+Wed,01-May,43,8pm,Delhi Daredevils,Kolkata Knight Riders,Raipur
+Wed,01-May,44,4pm,Chennai Super Kings,Kings XI Punjab,Chennai
+Thu,02-May,45,8pm,Pune Warriors India,Royal Challengers Bangalore,Pune
+Fri,03-May,46,8pm,Kolkata Knight Riders,Rajasthan Royals,Kolkata
+Fri,03-May,47,4pm,Sunrisers Hyderabad,Delhi Daredevils,Hyderabad
+Sat,04-May,48,8pm,Royal Challengers Bangalore,Chennai Super Kings,Bangalore
+Sat,04-May,49,4pm,Mumbai Indians,Delhi Daredevils,Mumbai
+Sun,05-May,50,8pm,Rajasthan Royals,Pune Warriors India,Jaipur
+Mon,06-May,51,8pm,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore
+Mon,06-May,52,4pm,Rajasthan Royals,Delhi Daredevils,Jaipur
+Tue,07-May,53,8pm,Mumbai Indians,Kolkata Knight Riders,Mumbai
+Wed,08-May,54,8pm,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad
+Wed,08-May,55,4pm,Kings XI Punjab,Rajasthan Royals,Mohali
+Thu,09-May,56,8pm,Pune Warriors India,Kolkata Knight Riders,Pune
+Fri,10-May,57,8pm,Delhi Daredevils,Royal Challengers Bangalore,Delhi
+Fri,10-May,58,4pm,Pune Warriors India,Mumbai Indians,Pune
+Sat,11-May,59,8pm,Kings XI Punjab,Sunrisers Hyderabad,Mohali
+Sat,11-May,60,4pm,Kolkata Knight Riders,Royal Challengers Bangalore,Ranchi
+Sun,12-May,61,8pm,Rajasthan Royals,Chennai Super Kings,Jaipur
+Sun,12-May,62,4pm,Mumbai Indians,Kings XI Punjab,Mumbai
+Mon,13-May,63,8pm,Delhi Daredevils,Sunrisers Hyderabad,Delhi
+Tue,14-May,64,8pm,Kings XI Punjab,Delhi Daredevils,Dharamsala
+Wed,15-May,65,8pm,Kolkata Knight Riders,Rajasthan Royals,Chennai
+Wed,15-May,66,4pm,Chennai Super Kings,Pune Warriors India,Chennai
+Thu,16-May,67,8pm,Kings XI Punjab,Royal Challengers Bangalore,Dharamsala
+Fri,17-May,68,8pm,Sunrisers Hyderabad,Mumbai Indians,Hyderabad
+Fri,17-May,69,4pm,Kings XI Punjab,Rajasthan Royals,Dharamsala
+Sat,18-May,70,8pm,Pune Warriors India,Delhi Daredevils,Pune
+Sat,18-May,71,4pm,Royal Challengers Bangalore,Chennai Super Kings,Bangalore
+Sun,19-May,72,8pm,Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad
+Tue,21-May,QUALIFIER 1,8pm,First Placed Team,Second Placed Team,Chennai
+Wed,22-May,ELIMINATOR,8pm,Third Placed Team,Fourth Placed Team,Chennai
+Fri,24-May,QUALIFIER 2,8pm,Winner of Eliminator,Loser of Qualifier 1,Kolkata
+Sun,26-May,FINAL,8pm,Winner of Qualifier 1,Winner of Qualifier 2,Kolkata
+2013

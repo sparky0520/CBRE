@@ -1,0 +1,41 @@
+GitHub co-pilot use cases:
+
+Parameters: Code Base Condition, Features
+
+Other factors affecting the efficiency of adding of features : Developer skills and tools (familiarity, copilot efficiency) , technological considerations (compatibility, performance)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Using GitHub Copilot to Add Features:
+
+Pros:
+- Faster implementation for small to moderate enhancements.
+- Leveraging existing infrastructure and user familiarity.
+- Reduced initial costs compared to building a new app.
+Cons:
+- Potentially increasing technical debt.
+- Limited by the existing architecture and technology stack.
+
+Building a New Application:
+
+Pros:
+- Opportunity to use modern technologies and best practices.
+- Cleaner architecture, easier future maintenance.
+- Potentially better performance and scalability.
+Cons:
+- Higher initial costs and longer development time.
+- Need for data migration and user transition planning.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--- Three things to consider :
+	
+	1. Features needed: If the features needed are simple then integrating them to the legacy app should be considered (using co-pilot). But if the features are complex and big, then a complete overhaul may be needed (make a new app from scratch).
+
+	2. Condition of Legacy Code Base: If the code base is not well maintained then it may be better to make a new app. Only a well-maintained code base will benefit from GitHub copilot.
+
+	3. Future Needs: Future needs like scalability and updates should also be considered as making a new app will result in newer and more efficient technology being used. This will help in making a more scalable app while leaving potential for more feature additions.
+ 	
+	Other ways could be:
+	
+	1. Hybrid: To avoid reimplementing the entire existing code we can make microservices of core functionality and overhaul the rest of the app as needed.

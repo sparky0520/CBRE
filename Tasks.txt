@@ -1,0 +1,23 @@
+1.
+- All web development technologies widely used in the world (frontend and backend).
+	- When and why to use them
+
+- Make a PPT on the above topic
+
+2.
+- GitHub co-pilot:
+
+Case: There is a legacy app. The company wants to make a new app. Should the company use GitHub co-pilot on the legacy app to introduce the new features or make a new app from scratch.
+
+3. 
+- Go through the CBRE website and note all the services and info about CBRE. 
+
+4. 
+- Project: Webscrape through filetype:pdf and search for IPL. Get the IPL matches schedule and winner for each year. Give output for all years in a table.
+
+
+-------------------------------------------------------------------------
+1. Use CBRE fonts and colours in your next PPT 
+2. Don't get nervous.
+3. Don't skip slides. Explain everything you included.
+4. Clear your doubts regarding the problem statement once again (and show the initial slides for corrections).
