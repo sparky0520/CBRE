@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e103c87-c080-49b3-86c5-dc1069e1684c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2008.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2010.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2012.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/2024.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/ers..csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/csv/ings.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/gemini.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipl/gemini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipl/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipl/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2hAq1CgthLJH9l9f0oGo3fo1QDP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e103c87-c080-49b3-86c5-dc1069e1684c" name="Changes" comment="" />
+      <created>1717047013782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717047013782</updated>
+    </task>
+    <servers />
+  </component>
+</project>
