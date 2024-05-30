@@ -1,58 +1,59 @@
-Match,Match Day,Day,Date,IST,UAE,Venue,Home,Away
-1,1,SAT,19-SEP-20,7:30PM,6:00PM,ABU DHABI,MUMBAI INDIANS,CHENNAI SUPER KINGS
-2,2,SUN,20-SEP-20,7:30PM,6:00PM,DUBAI,DELHI CAPITALS,KINGS XI PUNJAB
-3,3,MON,21-SEP-20,7:30PM,6:00PM,DUBAI,SUNRISERS HYDERABAD,ROYAL CHALLENGERS BANGALORE
-4,4,TUE,22-SEP-20,7:30PM,6:00PM,SHARJAH,RAJASTHAN ROYALS,CHENNAI SUPER KINGS
-5,5,WED,23-SEP-20,7:30PM,6:00PM,ABU DHABI,KOLKATA KNIGHT RIDERS,MUMBAI INDIANS
-6,6,THU,24-SEP-20,7:30PM,6:00PM,DUBAI,KINGS XI PUNJAB,ROYAL CHALLENGERS BANGALORE
-7,7,FRI,25-SEP-20,7:30PM,6:00PM,DUBAI,CHENNAI SUPER KINGS,DELHI CAPITALS
-8,8,SAT,26-SEP-20,7:30PM,6:00PM,ABU DHABI,KOLKATA KNIGHT RIDERS,SUNRISERS HYDERABAD
-9,9,SUN,27-SEP-20,7:30PM,6:00PM,SHARJAH,RAJASTHAN ROYALS,KINGS XI PUNJAB
-10,10,MON,28-SEP-20,7:30PM,6:00PM,DUBAI,ROYAL CHALLENGERS BANGALORE,MUMBAI INDIANS
-11,11,TUE,29-SEP-20,7:30PM,6:00PM,ABU DHABI,DELHI CAPITALS,SUNRISERS HYDERABAD
-12,12,WED,30-SEP-20,7:30PM,6:00PM,DUBAI,RAJASTHAN ROYALS,KOLKATA KNIGHT RIDERS
-13,13,THU,1-OCT-20,7:30PM,6:00PM,ABU DHABI,KINGS XI PUNJAB,MUMBAI INDIANS
-14,14,FRI,2-OCT-20,7:30PM,6:00PM,DUBAI,CHENNAI SUPER KINGS,SUNRISERS HYDERABAD
-15,15,SAT,3-OCT-20,3:30PM,2:00PM,ABU DHABI,ROYAL CHALLENGERS BANGALORE,RAJASTHAN ROYALS
-15,16,SAT,3-OCT-20,7:30PM,6:00PM,SHARJAH,DELHI CAPITALS,KOLKATA KNIGHT RIDERS
-16,17,SUN,4-OCT-20,3:30PM,2:00PM,SHARJAH,MUMBAI INDIANS,SUNRISERS HYDERABAD
-16,18,SUN,4-OCT-20,7:30PM,6:00PM,DUBAI,KINGS XI PUNJAB,CHENNAI SUPER KINGS
-17,19,MON,5-OCT-20,7:30PM,6:00PM,DUBAI,ROYAL CHALLENGERS BANGALORE,DELHI CAPITALS
-18,20,TUE,6-OCT-20,7:30PM,6:00PM,ABU DHABI,MUMBAI INDIANS,RAJASTHAN ROYALS
-19,21,WED,7-OCT-20,7:30PM,6:00PM,ABU DHABI,KOLKATA KNIGHT RIDERS,CHENNAI SUPER KINGS
-20,22,THU,8-OCT-20,7:30PM,6:00PM,DUBAI,SUNRISERS HYDERABAD,KINGS XI PUNJAB
-21,23,FRI,9-OCT-20,7:30PM,6:00PM,SHARJAH,RAJASTHAN ROYALS,DELHI CAPITALS
-22,24,SAT,10-OCT-20,3:30PM,2:00PM,ABU DHABI,KINGS XI PUNJAB,KOLKATA KNIGHT RIDERS
-22,25,SAT,10-OCT-20,7:30PM,6:00PM,DUBAI,CHENNAI SUPER KINGS,ROYAL CHALLENGERS BANGALORE
-23,26,SUN,11-OCT-20,3:30PM,2:00PM,DUBAI,SUNRISERS HYDERABAD,RAJASTHAN ROYALS
-23,27,SUN,11-OCT-20,7:30PM,6:00PM,ABU DHABI,MUMBAI INDIANS,DELHI CAPITALS
-24,28,MON,12-OCT-20,7:30PM,6:00PM,SHARJAH,ROYAL CHALLENGERS BANGALORE,KOLKATA KNIGHT RIDERS
-25,29,TUE,13-OCT-20,7:30PM,6:00PM,DUBAI,SUNRISERS HYDERABAD,CHENNAI SUPER KINGS
-26,30,WED,14-OCT-20,7:30PM,6:00PM,DUBAI,DELHI CAPITALS,RAJASTHAN ROYALS
-27,31,THU,15-OCT-20,7:30PM,6:00PM,SHARJAH,ROYAL CHALLENGERS BANGALORE,KINGS XI PUNJAB
-28,32,FRI,16-OCT-20,7:30PM,6:00PM,ABU DHABI,MUMBAI INDIANS,KOLKATA KNIGHT RIDERS
-29,33,SAT,17-OCT-20,3:30PM,2:00PM,DUBAI,RAJASTHAN ROYALS,ROYAL CHALLENGERS BANGALORE
-29,34,SAT,17-OCT-20,7:30PM,6:00PM,SHARJAH,DELHI CAPITALS,CHENNAI SUPER KINGS
-30,35,SUN,18-OCT-20,3:30PM,2:00PM,ABU DHABI,SUNRISERS HYDERABAD,KOLKATA KNIGHT RIDERS
-30,36,SUN,18-OCT-20,7:30PM,6:00PM,DUBAI,MUMBAI INDIANS,KINGS XI PUNJAB
-31,37,MON,19-OCT-20,7:30PM,6:00PM,ABU DHABI,CHENNAI SUPER KINGS,DELHI CAPITALS
-32,38,TUE,20-OCT-20,7:30PM,6:00PM,DUBAI,KINGS XI PUNJAB,RAJASTHAN ROYALS
-33,39,WED,21-OCT-20,7:30PM,6:00PM,ABU DHABI,KOLKATA KNIGHT RIDERS,ROYAL CHALLENGERS BANGALORE
-34,40,THU,22-OCT-20,7:30PM,6:00PM,DUBAI,RAJASTHAN ROYALS,SUNRISERS HYDERABAD
-35,41,FRI,23-OCT-20,7:30PM,6:00PM,SHARJAH,CHENNAI SUPER KINGS,MUMBAI INDIANS
-36,42,SAT,24-OCT-20,3:30PM,2:00PM,ABU DHABI,KOLKATA KNIGHT RIDERS,DELHI CAPITALS
-36,43,SAT,24-OCT-20,7:30PM,6:00PM,DUBAI,KINGS XI PUNJAB,SUNRISERS HYDERABAD
-37,44,SUN,25-OCT-20,3:30PM,2:00PM,DUBAI,ROYAL CHALLENGERS BANGALORE,CHENNAI SUPER KINGS
-37,45,SUN,25-OCT-20,7:30PM,6:00PM,ABU DHABI,RAJASTHAN ROYALS,MUMBAI INDIANS
-38,46,MON,26-OCT-20,7:30PM,6:00PM,SHARJAH,KOLKATA KNIGHT RIDERS,KINGS XI PUNJAB
-39,47,TUE,27-OCT-20,7:30PM,6:00PM,DUBAI,SUNRISERS HYDERABAD,DELHI CAPITALS
-40,48,WED,28-OCT-20,7:30PM,6:00PM,ABU DHABI,MUMBAI INDIANS,ROYAL CHALLENGERS BANGALORE
-41,49,THU,29-OCT-20,7:30PM,6:00PM,DUBAI,CHENNAI SUPER KINGS,KOLKATA KNIGHT RIDERS
-42,50,FRI,30-OCT-20,7:30PM,6:00PM,ABU DHABI,KINGS XI PUNJAB,RAJASTHAN ROYALS
-43,51,SAT,31-OCT-20,3:30PM,2:00PM,DUBAI,DELHI CAPITALS,SUNRISERS HYDERABAD
-43,52,SAT,31-OCT-20,7:30PM,6:00PM,SHARJAH,ROYAL CHALLENGERS BANGALORE,MUMBAI INDIANS
-44,53,SUN,1-NOV-20,3:30PM,2:00PM,ABU DHABI,CHENNAI SUPER KINGS,KINGS XI PUNJAB
-44,54,SUN,1-NOV-20,7:30PM,6:00PM,DUBAI,KOLKATA KNIGHT RIDERS,RAJASTHAN ROYALS
-45,55,MON,2-NOV-20,7:30PM,6:00PM,ABU DHABI,DELHI CAPITALS,ROYAL CHALLENGERS BANGALORE
-46,56,TUE,3-NOV-20,7:30PM,6:00PM,SHARJAH,SUNRISERS HYDERABAD,MUMBAI INDIANS
+Date,Year,Time,Teams,Venue,Match Type,Result
+19-Sep-20,2020,7:30PM,Mumbai Indians vs Chennai Super Kings,Abu Dhabi,League,Chennai Super Kings Won by 5 Wickets
+20-Sep-20,2020,7:30PM,Delhi Capitals vs Kings XI Punjab,Dubai,League,Kings XI Punjab Won by 4 Wickets
+21-Sep-20,2020,7:30PM,Sunrisers Hyderabad vs Royal Challengers Bangalore,Dubai,League,Royal Challengers Bangalore Won by 10 Runs
+22-Sep-20,2020,7:30PM,Rajasthan Royals vs Chennai Super Kings,Sharjah,League,Chennai Super Kings Won by 22 Runs
+23-Sep-20,2020,7:30PM,Kolkata Knight Riders vs Mumbai Indians,Abu Dhabi,League,Mumbai Indians Won by 3 Wickets
+24-Sep-20,2020,7:30PM,Kings XI Punjab vs Royal Challengers Bangalore,Dubai,League,Royal Challengers Bangalore Won by 8 Wickets
+25-Sep-20,2020,7:30PM,Chennai Super Kings vs Delhi Capitals,Dubai,League,Delhi Capitals Won by 44 Runs
+26-Sep-20,2020,7:30PM,Kolkata Knight Riders vs Sunrisers Hyderabad,Abu Dhabi,League,Kolkata Knight Riders Won by 10 Runs
+27-Sep-20,2020,7:30PM,Rajasthan Royals vs Kings XI Punjab,Sharjah,League,Kings XI Punjab Won by 7 Wickets
+28-Sep-20,2020,7:30PM,Royal Challengers Bangalore vs Mumbai Indians,Dubai,League,Mumbai Indians Won by 46 Runs
+29-Sep-20,2020,7:30PM,Delhi Capitals vs Sunrisers Hyderabad,Abu Dhabi,League,Sunrisers Hyderabad Won by 8 Wickets
+30-Sep-20,2020,7:30PM,Rajasthan Royals vs Kolkata Knight Riders,Dubai,League,Kolkata Knight Riders Won by 60 Runs
+1-Oct-20,2020,7:30PM,Kings XI Punjab vs Mumbai Indians,Abu Dhabi,League,Mumbai Indians Won by 48 Runs
+2-Oct-20,2020,7:30PM,Chennai Super Kings vs Sunrisers Hyderabad,Dubai,League,Chennai Super Kings Won by 20 Runs
+3-Oct-20,2020,3:30PM,Royal Challengers Bangalore vs Rajasthan Royals,Abu Dhabi,League,Rajasthan Royals Won by 7 Wickets
+3-Oct-20,2020,7:30PM,Delhi Capitals vs Kolkata Knight Riders,Sharjah,League,Kolkata Knight Riders Won by 59 Runs
+4-Oct-20,2020,3:30PM,Mumbai Indians vs Sunrisers Hyderabad,Sharjah,League,Mumbai Indians Won by 10 Runs
+4-Oct-20,2020,7:30PM,Kings XI Punjab vs Chennai Super Kings,Dubai,League,Chennai Super Kings Won by 9 Wickets
+5-Oct-20,2020,7:30PM,Royal Challengers Bangalore vs Delhi Capitals,Dubai,League,Delhi Capitals Won by 5 Wickets
+6-Oct-20,2020,7:30PM,Mumbai Indians vs Rajasthan Royals,Abu Dhabi,League,Rajasthan Royals Won by 7 Wickets
+7-Oct-20,2020,7:30PM,Kolkata Knight Riders vs Chennai Super Kings,Abu Dhabi,League,Chennai Super Kings Won by 6 Wickets
+8-Oct-20,2020,7:30PM,Sunrisers Hyderabad vs Kings XI Punjab,Dubai,League,Kings XI Punjab Won by 12 Runs
+9-Oct-20,2020,7:30PM,Rajasthan Royals vs Delhi Capitals,Sharjah,League,Delhi Capitals Won by 4 Wickets
+10-Oct-20,2020,3:30PM,Kings XI Punjab vs Kolkata Knight Riders,Abu Dhabi,League,Kolkata Knight Riders Won by 7 Wickets
+10-Oct-20,2020,7:30PM,Chennai Super Kings vs Royal Challengers Bangalore,Dubai,League,Royal Challengers Bangalore Won by 37 Runs
+11-Oct-20,2020,3:30PM,Sunrisers Hyderabad vs Rajasthan Royals,Dubai,League,Rajasthan Royals Won by 5 Runs
+11-Oct-20,2020,7:30PM,Mumbai Indians vs Delhi Capitals,Abu Dhabi,League,Delhi Capitals Won by 5 Wickets
+12-Oct-20,2020,7:30PM,Royal Challengers Bangalore vs Kolkata Knight Riders,Sharjah,League,Kolkata Knight Riders Won by 3 Wickets
+13-Oct-20,2020,7:30PM,Sunrisers Hyderabad vs Chennai Super Kings,Dubai,League,Chennai Super Kings Won by 20 Runs
+14-Oct-20,2020,7:30PM,Delhi Capitals vs Rajasthan Royals,Dubai,League,Rajasthan Royals Won by 2 Wickets
+15-Oct-20,2020,7:30PM,Royal Challengers Bangalore vs Kings XI Punjab,Sharjah,League,Kings XI Punjab Won by 8 Wickets
+16-Oct-20,2020,7:30PM,Mumbai Indians vs Kolkata Knight Riders,Abu Dhabi,League,Kolkata Knight Riders Won by 9 Wickets
+17-Oct-20,2020,3:30PM,Rajasthan Royals vs Royal Challengers Bangalore,Dubai,League,Royal Challengers Bangalore Won by 8 Wickets
+17-Oct-20,2020,7:30PM,Delhi Capitals vs Chennai Super Kings,Sharjah,League,Chennai Super Kings Won by 6 Wickets
+18-Oct-20,2020,3:30PM,Sunrisers Hyderabad vs Kolkata Knight Riders,Abu Dhabi,League,Sunrisers Hyderabad Won by 10 Runs
+18-Oct-20,2020,7:30PM,Mumbai Indians vs Kings XI Punjab,Dubai,League,Mumbai Indians Won by 5 Wickets
+19-Oct-20,2020,7:30PM,Chennai Super Kings vs Rajasthan Royals,Abu Dhabi,League,Rajasthan Royals Won by 7 Wickets
+20-Oct-20,2020,7:30PM,Kings XI Punjab vs Delhi Capitals,Dubai,League,Delhi Capitals Won by 6 Wickets
+21-Oct-20,2020,7:30PM,Kolkata Knight Riders vs Royal Challengers Bangalore,Abu Dhabi,League,Royal Challengers Bangalore Won by 82 Runs
+22-Oct-20,2020,7:30PM,Rajasthan Royals vs Sunrisers Hyderabad,Dubai,League,Sunrisers Hyderabad Won by 8 Wickets
+23-Oct-20,2020,7:30PM,Chennai Super Kings vs Mumbai Indians,Sharjah,League,Mumbai Indians Won by 5 Wickets
+24-Oct-20,2020,3:30PM,Kolkata Knight Riders vs Delhi Capitals,Abu Dhabi,League,Delhi Capitals Won by 4 Wickets
+24-Oct-20,2020,7:30PM,Kings XI Punjab vs Sunrisers Hyderabad,Dubai,League,Sunrisers Hyderabad Won by 6 Wickets
+25-Oct-20,2020,3:30PM,Royal Challengers Bangalore vs Chennai Super Kings,Dubai,League,Chennai Super Kings Won by 6 Wickets
+25-Oct-20,2020,7:30PM,Rajasthan Royals vs Mumbai Indians,Abu Dhabi,League,Mumbai Indians Won by 5 Wickets
+26-Oct-20,2020,7:30PM,Kolkata Knight Riders vs Delhi Capitals,Sharjah,League,Delhi Capitals Won by 13 Runs
+27-Oct-20,2020,7:30PM,Sunrisers Hyderabad vs Kings XI Punjab,Dubai,League,Kings XI Punjab Won by 12 Runs
+28-Oct-20,2020,7:30PM,Mumbai Indians vs Royal Challengers Bangalore,Abu Dhabi,League,Mumbai Indians Won by 5 Wickets
+29-Oct-20,2020,7:30PM,Chennai Super Kings vs Kolkata Knight Riders,Dubai,League,Kolkata Knight Riders Won by 10 Runs
+30-Oct-20,2020,7:30PM,Kings XI Punjab vs Rajasthan Royals,Abu Dhabi,League,Rajasthan Royals Won by 2 Runs
+31-Oct-20,2020,3:30PM,Delhi Capitals vs Mumbai Indians,Dubai,League,Mumbai Indians Won by 57 Runs
+31-Oct-20,2020,7:30PM,Royal Challengers Bangalore vs Sunrisers Hyderabad,Sharjah,League,Sunrisers Hyderabad Won by 6 Wickets
+1-Nov-20,2020,3:30PM,Chennai Super Kings vs Rajasthan Royals,Abu Dhabi,League,Rajasthan Royals Won by 7 Wickets
+1-Nov-20,2020,7:30PM,Kolkata Knight Riders vs Kings XI Punjab,Dubai,League,Kings XI Punjab Won by 8 Wickets
+2-Nov-20,2020,7:30PM,Delhi Capitals vs Royal Challengers Bangalore,Abu Dhabi,League,Royal Challengers Bangalore Won by 5 Wickets
+3-Nov-20,2020,7:30PM,Sunrisers Hyderabad vs Mumbai Indians,Sharjah,League,Mumbai Indians Won by 5 Wickets
+Winner of season: Mumbai Indians
 2020

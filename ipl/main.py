@@ -23,9 +23,15 @@ for i in filenames:
         os.remove(local_file_path)              # Remove pdf from local storage after uploading
 
         csv_response = ai_pdf_to_text(PROMPT,gcs_uri)   # Getting csv summary from Gemini 1.5 flash
-        year = csv_response[-4:]            # year - which is name of created csv file
+        with open("example.txt","a") as file:
+            file.write(local_file_path+'\n\n')
+            file.write(csv_response)
+            file.write('\n\n\n')
+        rows = [row.split(",") for row in csv_response.split("\n")]  # Split the data into rows
+        year = rows[-1][0]            # year - which is name of created csv file
+        year = year.strip().replace("\n", "").replace("\r", "")
         filename = f"{CSV_DIR}/{year}.csv"  # csv/year.csv - format
-        write_csv(csv_response,filename)    # write AI response to csv file with formatting
+        write_csv(rows,filename)    # write AI response to csv file with formatting
     except Exception as e:
         print(e)
     finally:

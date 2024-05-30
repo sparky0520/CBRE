@@ -1,74 +1,73 @@
-Match No,Match Day,Date,Time,Home Team,Away Team,Venue
-1,Sat,26-Mar-22,7:30 PM,Chennai Super Kings,Kolkata Knight Riders,Wankhede Stadium
-2,Sun,27-Mar-22,3:30 PM,Delhi Capitals,Royal Challengers Bangalore,Brabourne CCI
-3,Sun,27-Mar-22,7:30 PM,Punjab Kings,Kolkata Knight Riders,DY Patil Stadium
-4,Mon,28-Mar-22,7:30 PM,Gujarat Titans,Lucknow Super Giants,Wankhede Stadium
-5,Tue,29-Mar-22,7:30 PM,Sunrisers Hyderabad,Rajasthan Royals,MCA Stadium, Pune
-6,Wed,30-Mar-22,7:30 PM,Royal Challengers Bangalore,Kolkata Knight Riders,DY Patil Stadium
-7,Thu,31-Mar-22,7:30 PM,Lucknow Super Giants,Chennai Super Kings,Brabourne CCI
-8,Fri,01-Apr-22,7:30 PM,Kolkata Knight Riders,Punjab Kings,Wankhede Stadium
-9,Sat,02-Apr-22,3:30 PM,Mumbai Indians,Rajasthan Royals,DY Patil Stadium
-10,Sat,02-Apr-22,7:30 PM,Gujarat Titans,Delhi Capitals,MCA Stadium, Pune
-11,Sun,03-Apr-22,7:30 PM,Chennai Super Kings,Punjab Kings,Brabourne CCI
-12,Mon,04-Apr-22,7:30 PM,Sunrisers Hyderabad,Lucknow Super Giants,DY Patil Stadium
-13,Tue,05-Apr-22,7:30 PM,Rajasthan Royals,Royal Challengers Bangalore,Wankhede Stadium
-14,Wed,06-Apr-22,7:30 PM,Kolkata Knight Riders,Mumbai Indians,MCA Stadium, Pune
-15,Thu,07-Apr-22,7:30 PM,Lucknow Super Giants,Delhi Capitals,DY Patil Stadium
-16,Fri,08-Apr-22,7:30 PM,Punjab Kings,Gujarat Titans,Brabourne CCI
-17,Sat,09-Apr-22,3:30 PM,Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium
-18,Sat,09-Apr-22,7:30 PM,Royal Challengers Bangalore,Mumbai Indians,DY Patil Stadium
-19,Sun,10-Apr-22,3:30 PM,Kolkata Knight Riders,Delhi Capitals,MCA Stadium, Pune
-20,Sun,10-Apr-22,7:30 PM,Rajasthan Royals,Lucknow Super Giants,DY Patil Stadium
-21,Mon,11-Apr-22,7:30 PM,Sunrisers Hyderabad,Gujarat Titans,Brabourne CCI
-22,Tue,12-Apr-22,7:30 PM,Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium
-23,Wed,13-Apr-22,7:30 PM,Mumbai Indians,Punjab Kings,DY Patil Stadium
-24,Thu,14-Apr-22,7:30 PM,Rajasthan Royals,Gujarat Titans,MCA Stadium, Pune
-25,Fri,15-Apr-22,7:30 PM,Sunrisers Hyderabad,Kolkata Knight Riders,Brabourne CCI
-26,Sat,16-Apr-22,3:30 PM,Mumbai Indians,Lucknow Super Giants,DY Patil Stadium
-27,Sat,16-Apr-22,7:30 PM,Delhi Capitals,Sunrisers Hyderabad,Brabourne CCI
-28,Sun,17-Apr-22,3:30 PM,Punjab Kings,Royal Challengers Bangalore,Wankhede Stadium
-29,Sun,17-Apr-22,7:30 PM,Gujarat Titans,Chennai Super Kings,DY Patil Stadium
-30,Mon,18-Apr-22,7:30 PM,Rajasthan Royals,Kolkata Knight Riders,MCA Stadium, Pune
-31,Tue,19-Apr-22,7:30 PM,Lucknow Super Giants,Royal Challengers Bangalore,DY Patil Stadium
-32,Wed,20-Apr-22,7:30 PM,Delhi Capitals,Punjab Kings,Brabourne CCI
-33,Thu,21-Apr-22,7:30 PM,Mumbai Indians,Chennai Super Kings,Wankhede Stadium
-34,Fri,22-Apr-22,7:30 PM,Delhi Capitals,Kolkata Knight Riders,MCA Stadium, Pune
-35,Sat,23-Apr-22,3:30 PM,Punjab Kings,Royal Challengers Bangalore,DY Patil Stadium
-36,Sat,23-Apr-22,7:30 PM,Gujarat Titans,Sunrisers Hyderabad,Brabourne CCI
-37,Sun,24-Apr-22,7:30 PM,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium
-38,Mon,25-Apr-22,7:30 PM,Lucknow Super Giants,Chennai Super Kings,DY Patil Stadium
-39,Tue,26-Apr-22,7:30 PM,Rajasthan Royals,Gujarat Titans,MCA Stadium, Pune
-40,Wed,27-Apr-22,7:30 PM,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium
-41,Thu,28-Apr-22,7:30 PM,Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium
-42,Fri,29-Apr-22,7:30 PM,Punjab Kings,Lucknow Super Giants,MCA Stadium, Pune
-43,Sat,30-Apr-22,3:30 PM,Gujarat Titans,Royal Challengers Bangalore,Brabourne CCI
-44,Sat,30-Apr-22,7:30 PM,Rajasthan Royals,Mumbai Indians,DY Patil Stadium
-45,Sun,01-May-22,3:30 PM,Delhi Capitals,Lucknow Super Giants,Wankhede Stadium
-46,Sun,01-May-22,7:30 PM,Sunrisers Hyderabad,Chennai Super Kings,MCA Stadium, Pune
-47,Mon,02-May-22,7:30 PM,Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium
-48,Tue,03-May-22,7:30 PM,Gujarat Titans,Punjab Kings,Brabourne CCI
-49,Wed,04-May-22,7:30 PM,Royal Challengers Bangalore,Chennai Super Kings,DY Patil Stadium
-50,Thu,05-May-22,7:30 PM,Delhi Capitals,Sunrisers Hyderabad,MCA Stadium, Pune
-51,Fri,06-May-22,7:30 PM,Gujarat Titans,Mumbai Indians,Brabourne CCI
-52,Sat,07-May-22,3:30 PM,Punjab Kings,Rajasthan Royals,Wankhede Stadium
-53,Sat,07-May-22,7:30 PM,Lucknow Super Giants,Kolkata Knight Riders,DY Patil Stadium
-54,Sun,08-May-22,3:30 PM,Sunrisers Hyderabad,Royal Challengers Bangalore,MCA Stadium, Pune
-55,Sun,08-May-22,7:30 PM,Chennai Super Kings,Delhi Capitals,Wankhede Stadium
-56,Mon,09-May-22,7:30 PM,Mumbai Indians,Kolkata Knight Riders,DY Patil Stadium
-57,Tue,10-May-22,7:30 PM,Lucknow Super Giants,Gujarat Titans,Brabourne CCI
-58,Wed,11-May-22,7:30 PM,Rajasthan Royals,Delhi Capitals,Wankhede Stadium
-59,Thu,12-May-22,7:30 PM,Chennai Super Kings,Mumbai Indians,DY Patil Stadium
-60,Fri,13-May-22,7:30 PM,Royal Challengers Bangalore,Punjab Kings,MCA Stadium, Pune
-61,Sat,14-May-22,7:30 PM,Kolkata Knight Riders,Sunrisers Hyderabad,Brabourne CCI
-62,Sun,15-May-22,3:30 PM,Chennai Super Kings,Gujarat Titans,Wankhede Stadium
-63,Sun,15-May-22,7:30 PM,Lucknow Super Giants,Rajasthan Royals,DY Patil Stadium
-64,Mon,16-May-22,7:30 PM,Punjab Kings,Delhi Capitals,Brabourne CCI
-65,Tue,17-May-22,7:30 PM,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium
-66,Wed,18-May-22,7:30 PM,Kolkata Knight Riders,Lucknow Super Giants,DY Patil Stadium
-67,Thu,19-May-22,7:30 PM,Royal Challengers Bangalore,Gujarat Titans,MCA Stadium, Pune
-68,Fri,20-May-22,7:30 PM,Rajasthan Royals,Chennai Super Kings,Brabourne CCI
-69,Sat,21-May-22,7:30 PM,Mumbai Indians,Delhi Capitals,Wankhede Stadium
-70,Sun,22-May-22,7:30 PM,Sunrisers Hyderabad,Punjab Kings,DY Patil Stadium
-""
-The winner of IPL 2022 is:
+Date,Time,Teams,Venue,Match Type,Result
+26-Mar-22,7:30 PM,Chennai Super Kings vs Kolkata Knight Riders,Wankhede Stadium,League,Kolkata Knight Riders won by 6 wickets
+27-Mar-22,3:30 PM,Delhi Capitals vs Mumbai Indians,Brabourne CCI,League,Mumbai Indians won by 4 wickets
+27-Mar-22,7:30 PM,Punjab Kings vs Royal Challengers Bangalore,DY Patil Stadium,League,Royal Challengers Bangalore won by 5 wickets
+28-Mar-22,7:30 PM,Gujarat Titans vs Lucknow Super Giants,Wankhede Stadium,League,Lucknow Super Giants won by 5 wickets
+29-Mar-22,7:30 PM,Sunrisers Hyderabad vs Rajasthan Royals,MCA Stadium, Pune,League,Rajasthan Royals won by 61 runs
+30-Mar-22,7:30 PM,Royal Challengers Bangalore vs Kolkata Knight Riders,DY Patil Stadium,League,Kolkata Knight Riders won by 3 wickets
+31-Mar-22,7:30 PM,Lucknow Super Giants vs Chennai Super Kings,Brabourne CCI,League,Chennai Super Kings won by 6 wickets
+01-Apr-22,7:30 PM,Kolkata Knight Riders vs Punjab Kings,Wankhede Stadium,League,Punjab Kings won by 5 wickets
+02-Apr-22,3:30 PM,Mumbai Indians vs Rajasthan Royals,DY Patil Stadium,League,Rajasthan Royals won by 8 wickets
+02-Apr-22,7:30 PM,Gujarat Titans vs Delhi Capitals,MCA Stadium, Pune,League,Gujarat Titans won by 14 runs
+03-Apr-22,7:30 PM,Chennai Super Kings vs Punjab Kings,Brabourne CCI,League,Chennai Super Kings won by 13 runs
+04-Apr-22,7:30 PM,Sunrisers Hyderabad vs Lucknow Super Giants,DY Patil Stadium,League,Lucknow Super Giants won by 20 runs
+05-Apr-22,7:30 PM,Rajasthan Royals vs Royal Challengers Bangalore,Wankhede Stadium,League,Royal Challengers Bangalore won by 4 wickets
+06-Apr-22,7:30 PM,Kolkata Knight Riders vs Mumbai Indians,MCA Stadium, Pune,League,Mumbai Indians won by 5 runs
+07-Apr-22,7:30 PM,Lucknow Super Giants vs Delhi Capitals,Brabourne CCI,League,Lucknow Super Giants won by 6 wickets
+08-Apr-22,7:30 PM,Punjab Kings vs Gujarat Titans,DY Patil Stadium,League,Gujarat Titans won by 8 wickets
+09-Apr-22,3:30 PM,Chennai Super Kings vs Sunrisers Hyderabad,Wankhede Stadium,League,Chennai Super Kings won by 13 runs
+09-Apr-22,7:30 PM,Royal Challengers Bangalore vs Mumbai Indians,DY Patil Stadium,League,Mumbai Indians won by 7 wickets
+10-Apr-22,3:30 PM,Kolkata Knight Riders vs Delhi Capitals,MCA Stadium, Pune,League,Delhi Capitals won by 4 wickets
+10-Apr-22,7:30 PM,Rajasthan Royals vs Lucknow Super Giants,Brabourne CCI,League,Rajasthan Royals won by 24 runs
+11-Apr-22,7:30 PM,Sunrisers Hyderabad vs Gujarat Titans,DY Patil Stadium,League,Gujarat Titans won by 5 wickets
+12-Apr-22,7:30 PM,Chennai Super Kings vs Royal Challengers Bangalore,Wankhede Stadium,League,Royal Challengers Bangalore won by 13 runs
+13-Apr-22,7:30 PM,Mumbai Indians vs Punjab Kings,Brabourne CCI,League,Punjab Kings won by 6 wickets
+14-Apr-22,7:30 PM,Rajasthan Royals vs Gujarat Titans,MCA Stadium, Pune,League,Gujarat Titans won by 37 runs
+15-Apr-22,7:30 PM,Sunrisers Hyderabad vs Kolkata Knight Riders,DY Patil Stadium,League,Sunrisers Hyderabad won by 7 wickets
+16-Apr-22,3:30 PM,Mumbai Indians vs Lucknow Super Giants,Wankhede Stadium,League,Lucknow Super Giants won by 36 runs
+16-Apr-22,7:30 PM,Delhi Capitals vs Sunrisers Hyderabad,Brabourne CCI,League,Delhi Capitals won by 21 runs
+17-Apr-22,3:30 PM,Punjab Kings vs Sunrisers Hyderabad,DY Patil Stadium,League,Sunrisers Hyderabad won by 9 wickets
+17-Apr-22,7:30 PM,Gujarat Titans vs Chennai Super Kings,Brabourne CCI,League,Gujarat Titans won by 3 wickets
+18-Apr-22,7:30 PM,Rajasthan Royals vs Kolkata Knight Riders,MCA Stadium, Pune,League,Rajasthan Royals won by 7 wickets
+19-Apr-22,7:30 PM,Lucknow Super Giants vs Royal Challengers Bangalore,DY Patil Stadium,League,Royal Challengers Bangalore won by 18 runs
+20-Apr-22,7:30 PM,Delhi Capitals vs Punjab Kings,Wankhede Stadium,League,Punjab Kings won by 8 wickets
+21-Apr-22,7:30 PM,Mumbai Indians vs Chennai Super Kings,Brabourne CCI,League,Chennai Super Kings won by 3 wickets
+22-Apr-22,7:30 PM,Delhi Capitals vs Royal Challengers Bangalore,DY Patil Stadium,League,Delhi Capitals won by 16 runs
+23-Apr-22,3:30 PM,Kolkata Knight Riders vs Punjab Kings,MCA Stadium, Pune,League,Kolkata Knight Riders won by 7 wickets
+23-Apr-22,7:30 PM,Royal Challengers Bangalore vs Gujarat Titans,Brabourne CCI,League,Gujarat Titans won by 8 wickets
+24-Apr-22,7:30 PM,Royal Challengers Bangalore vs Lucknow Super Giants,Wankhede Stadium,League,Lucknow Super Giants won by 18 runs
+25-Apr-22,7:30 PM,Punjab Kings vs Rajasthan Royals,DY Patil Stadium,League,Rajasthan Royals won by 6 wickets
+26-Apr-22,7:30 PM,Gujarat Titans vs Sunrisers Hyderabad,Brabourne CCI,League,Gujarat Titans won by 5 wickets
+27-Apr-22,7:30 PM,Gujarat Titans vs Sunrisers Hyderabad,Wankhede Stadium,League,Sunrisers Hyderabad won by 5 wickets
+28-Apr-22,7:30 PM,Delhi Capitals vs Kolkata Knight Riders,Wankhede Stadium,League,Delhi Capitals won by 4 wickets
+29-Apr-22,7:30 PM,Punjab Kings vs Lucknow Super Giants,MCA Stadium, Pune,League,Lucknow Super Giants won by 6 wickets
+30-Apr-22,3:30 PM,Gujarat Titans vs Royal Challengers Bangalore,Brabourne CCI,League,Gujarat Titans won by 8 wickets
+30-Apr-22,7:30 PM,Rajasthan Royals vs Mumbai Indians,DY Patil Stadium,League,Mumbai Indians won by 5 wickets
+01-May-22,3:30 PM,Delhi Capitals vs Lucknow Super Giants,Wankhede Stadium,League,Lucknow Super Giants won by 6 wickets
+01-May-22,7:30 PM,Sunrisers Hyderabad vs Chennai Super Kings,MCA Stadium, Pune,League,Sunrisers Hyderabad won by 8 wickets
+02-May-22,7:30 PM,Kolkata Knight Riders vs Rajasthan Royals,Wankhede Stadium,League,Rajasthan Royals won by 7 wickets
+03-May-22,7:30 PM,Gujarat Titans vs Punjab Kings,DY Patil Stadium,League,Gujarat Titans won by 7 wickets
+04-May-22,7:30 PM,Royal Challengers Bangalore vs Chennai Super Kings,MCA Stadium, Pune,League,Chennai Super Kings won by 4 wickets
+05-May-22,7:30 PM,Delhi Capitals vs Sunrisers Hyderabad,Brabourne CCI,League,Sunrisers Hyderabad won by 3 wickets
+06-May-22,7:30 PM,Gujarat Titans vs Mumbai Indians,DY Patil Stadium,League,Gujarat Titans won by 5 wickets
+07-May-22,3:30 PM,Punjab Kings vs Rajasthan Royals,Wankhede Stadium,League,Punjab Kings won by 5 wickets
+07-May-22,7:30 PM,Lucknow Super Giants vs Kolkata Knight Riders,Brabourne CCI,League,Kolkata Knight Riders won by 2 wickets
+08-May-22,3:30 PM,Sunrisers Hyderabad vs Royal Challengers Bangalore,MCA Stadium, Pune,League,Royal Challengers Bangalore won by 6 wickets
+08-May-22,7:30 PM,Chennai Super Kings vs Delhi Capitals,DY Patil Stadium,League,Chennai Super Kings won by 9 wickets
+09-May-22,7:30 PM,Mumbai Indians vs Kolkata Knight Riders,Wankhede Stadium,League,Mumbai Indians won by 5 wickets
+10-May-22,7:30 PM,Lucknow Super Giants vs Gujarat Titans,Brabourne CCI,League,Gujarat Titans won by 7 wickets
+11-May-22,7:30 PM,Rajasthan Royals vs Delhi Capitals,DY Patil Stadium,League,Rajasthan Royals won by 15 runs
+12-May-22,7:30 PM,Chennai Super Kings vs Mumbai Indians,Wankhede Stadium,League,Chennai Super Kings won by 3 wickets
+13-May-22,7:30 PM,Royal Challengers Bangalore vs Punjab Kings,MCA Stadium, Pune,League,Royal Challengers Bangalore won by 23 runs
+14-May-22,7:30 PM,Kolkata Knight Riders vs Sunrisers Hyderabad,Brabourne CCI,League,Kolkata Knight Riders won by 4 wickets
+15-May-22,3:30 PM,Chennai Super Kings vs Gujarat Titans,DY Patil Stadium,League,Gujarat Titans won by 7 wickets
+15-May-22,7:30 PM,Lucknow Super Giants vs Rajasthan Royals,Wankhede Stadium,League,Lucknow Super Giants won by 4 wickets
+16-May-22,7:30 PM,Punjab Kings vs Delhi Capitals,MCA Stadium, Pune,League,Punjab Kings won by 17 runs
+17-May-22,7:30 PM,Mumbai Indians vs Sunrisers Hyderabad,Brabourne CCI,League,Sunrisers Hyderabad won by 3 wickets
+18-May-22,7:30 PM,Kolkata Knight Riders vs Lucknow Super Giants,Wankhede Stadium,League,Lucknow Super Giants won by 8 wickets
+19-May-22,7:30 PM,Royal Challengers Bangalore vs Gujarat Titans,DY Patil Stadium,League,Gujarat Titans won by 6 wickets
+20-May-22,7:30 PM,Rajasthan Royals vs Delhi Capitals,Wankhede Stadium,League,Delhi Capitals won by 14 runs
+21-May-22,7:30 PM,Mumbai Indians vs Chennai Super Kings,Brabourne CCI,League,Chennai Super Kings won by 9 wickets
+22-May-22,7:30 PM,Sunrisers Hyderabad vs Punjab Kings,DY Patil Stadium,League,Punjab Kings won by 11 runs
+Winner of season: Gujarat Titans
 2022
