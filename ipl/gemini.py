@@ -35,23 +35,25 @@ def write_csv(rows, filename):
     print(f"Created {filename}")
 
 
-PROMPT = """Please extract the IPL schedule data from the provided PDF in the following CSV format:
-- Columns: According to data.
-- Include only the match schedule details (one row per match).
-- Ensure that the year of the season is accurately extracted and included in the last row.
-- Extract the winner of the IPL season, placed after the last match record.
-- Place the year of the IPL season in the last row so that it can be used to name the CSV file.
+PROMPT = """
+Please extract the IPL schedule data from the provided PDF and convert it into the following CSV format:
+    - Columns: Date, Year, Time, Teams, Venue, Match Type, Result
+- Identify and map any headers found in the PDF to these columns. For example:
+  - "Match no, Match day, Date, Weekday, Kick-off, Home, Away, Stadium" should be mapped appropriately.
+  - If headers are different, determine the best fit for the standardized columns.
+- For "Teams," combine any "Home" and "Away" team names or equivalent into a single "Teams" column.
+- Ensure that no data under any header contains commas, as this will be saved as a CSV file. Replace commas with spaces where necessary.
+- Extract and accurately place the year of the season.
+- Extract and include the winner of the IPL season, placing this information after the last match record.
 - Ensure all fields are accurately populated without extra whitespace or missing values.
+- If any data is missing or unclear, make the best possible estimation based on the provided information.
 
 Example CSV format:
 Date, Year, Time, Teams, Venue, Match Type, Result
-March 23, 2019, 8:00 PM IST, Chennai Super Kings vs Royal Challengers Bangalore, MA Chidambaram Stadium, Chepauk, Chennai, League, Chennai Super Kings Won by 7 Wicket(s)
+March 23 2019, 2019, 8:00 PM IST, Chennai Super Kings vs Royal Challengers Bangalore, MA Chidambaram Stadium Chepauk Chennai, League, Chennai Super Kings Won by 7 Wicket(s)
 ...
 ...
 Winner of season: Mumbai Indians
 2019
 """
 CSV_DIR = 'csv'  # Directory in which all csv files are stored.
-
-# filename = f"csv/{year}.csv"
-# write_csv(response, filename)

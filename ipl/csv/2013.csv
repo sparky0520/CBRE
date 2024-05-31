@@ -1,80 +1,76 @@
-Date,Day,Time,Teams,Venue,Match Type
-03-Apr,Wed,8pm,Kolkata Knight Riders vs Delhi Daredevils,Kolkata,League
-04-Apr,Thu,8pm,Royal Challengers Bangalore vs Mumbai Indians,Bangalore,League
-05-Apr,Fri,8pm,Sunrisers Hyderabad vs Pune Warriors India,Hyderabad,League
-06-Apr,Sat,4pm,Delhi Daredevils vs Rajasthan Royals,Delhi,League
-06-Apr,Sat,8pm,Chennai Super Kings vs Mumbai Indians,Chennai,League
-07-Apr,Sun,4pm,Pune Warriors India vs Kings XI Punjab,Pune,League
-07-Apr,Sun,8pm,Sunrisers Hyderabad vs Royal Challengers Bangalore,Hyderabad,League
-08-Apr,Mon,8pm,Rajasthan Royals vs Kolkata Knight Riders,Jaipur,League
-09-Apr,Tue,8pm,Mumbai Indians vs Delhi Daredevils,Mumbai,League
-10-Apr,Wed,8pm,Kings XI Punjab vs Chennai Super Kings,Mohali,League
-11-Apr,Thu,4pm,Royal Challengers Bangalore vs Pune Warriors India,Bangalore,League
-11-Apr,Thu,8pm,Kolkata Knight Riders vs Rajasthan Royals,Kolkata,League
-12-Apr,Fri,8pm,Delhi Daredevils vs Sunrisers Hyderabad,Delhi,League
-13-Apr,Sat,4pm,Mumbai Indians vs Pune Warriors India,Mumbai,League
-13-Apr,Sat,8pm,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League
-14-Apr,Sun,4pm,Kolkata Knight Riders vs Sunrisers Hyderabad,Kolkata,League
-14-Apr,Sun,8pm,Rajasthan Royals vs Kings XI Punjab,Jaipur,League
-15-Apr,Mon,8pm,Chennai Super Kings vs Kings XI Punjab,Chennai,League
-16-Apr,Tue,4pm,Kings XI Punjab vs Royal Challengers Bangalore,Mohali,League
-16-Apr,Tue,8pm,Rajasthan Royals vs Pune Warriors India,Jaipur,League
-17-Apr,Wed,4pm,Delhi Daredevils vs Kolkata Knight Riders,Delhi,League
-17-Apr,Wed,8pm,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League
-18-Apr,Thu,8pm,Pune Warriors India vs Chennai Super Kings,Pune,League
-19-Apr,Fri,8pm,Kolkata Knight Riders vs Royal Challengers Bangalore,Kolkata,League
-20-Apr,Sat,4pm,Delhi Daredevils vs Kings XI Punjab,Delhi,League
-20-Apr,Sat,8pm,Royal Challengers Bangalore vs Rajasthan Royals,Bangalore,League
-21-Apr,Sun,4pm,Chennai Super Kings vs Pune Warriors India,Chennai,League
-21-Apr,Sun,8pm,Kings XI Punjab vs Delhi Daredevils,Mohali,League
-22-Apr,Mon,8pm,Royal Challengers Bangalore vs Sunrisers Hyderabad,Bangalore,League
-23-Apr,Tue,4pm,Kings XI Punjab vs Rajasthan Royals,Mohali,League
-23-Apr,Tue,8pm,Kolkata Knight Riders vs Mumbai Indians,Kolkata,League
-24-Apr,Wed,8pm,Chennai Super Kings vs Sunrisers Hyderabad,Chennai,League
-25-Apr,Thu,8pm,Kolkata Knight Riders vs Kings XI Punjab,Kolkata,League
-26-Apr,Fri,4pm,Rajasthan Royals vs Sunrisers Hyderabad,Jaipur,League
-26-Apr,Fri,8pm,Mumbai Indians vs Royal Challengers Bangalore,Mumbai,League
-27-Apr,Sat,4pm,Chennai Super Kings vs Delhi Daredevils,Chennai,League
-27-Apr,Sat,8pm,Kolkata Knight Riders vs Pune Warriors India,Raipur,League
-28-Apr,Sun,4pm,Rajasthan Royals vs Royal Challengers Bangalore,Jaipur,League
-28-Apr,Sun,8pm,Mumbai Indians vs Kings XI Punjab,Mumbai,League
-29-Apr,Mon,8pm,Pune Warriors India vs Chennai Super Kings,Pune,League
-30-Apr,Tue,4pm,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League
-30-Apr,Tue,8pm,Chennai Super Kings vs Pune Warriors India,Chennai,League
-01-May,Wed,4pm,Delhi Daredevils vs Kolkata Knight Riders,Raipur,League
-01-May,Wed,8pm,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League
-02-May,Thu,8pm,Pune Warriors India vs Kings XI Punjab,Pune,League
-03-May,Fri,4pm,Sunrisers Hyderabad vs Delhi Daredevils,Hyderabad,League
-03-May,Fri,8pm,Kolkata Knight Riders vs Rajasthan Royals,Kolkata,League
-04-May,Sat,4pm,Mumbai Indians vs Royal Challengers Bangalore,Mumbai,League
-04-May,Sat,8pm,Royal Challengers Bangalore vs Chennai Super Kings,Bangalore,League
-05-May,Sun,4pm,Rajasthan Royals vs Sunrisers Hyderabad,Jaipur,League
-05-May,Sun,8pm,Mumbai Indians vs Delhi Daredevils,Mumbai,League
-06-May,Mon,4pm,Rajasthan Royals vs Pune Warriors India,Jaipur,League
-06-May,Mon,8pm,Royal Challengers Bangalore vs Kolkata Knight Riders,Bangalore,League
-07-May,Tue,8pm,Mumbai Indians vs Sunrisers Hyderabad,Mumbai,League
-08-May,Wed,4pm,Kings XI Punjab vs Rajasthan Royals,Mohali,League
-08-May,Wed,8pm,Sunrisers Hyderabad vs Chennai Super Kings,Hyderabad,League
-09-May,Thu,8pm,Pune Warriors India vs Kolkata Knight Riders,Pune,League
-10-May,Fri,4pm,Delhi Daredevils vs Royal Challengers Bangalore,Delhi,League
-10-May,Fri,8pm,Pune Warriors India vs Mumbai Indians,Pune,League
-11-May,Sat,4pm,Kings XI Punjab vs Sunrisers Hyderabad,Mohali,League
-11-May,Sat,8pm,Kolkata Knight Riders vs Royal Challengers Bangalore,Ranchi,League
-12-May,Sun,4pm,Rajasthan Royals vs Chennai Super Kings,Jaipur,League
-12-May,Sun,8pm,Delhi Daredevils vs Mumbai Indians,Delhi,League
-13-May,Mon,8pm,Mumbai Indians vs Sunrisers Hyderabad,Mumbai,League
-14-May,Tue,8pm,Kings XI Punjab vs Delhi Daredevils,Dharamsala,League
-15-May,Wed,8pm,Kolkata Knight Riders vs Pune Warriors India,Chennai,League
-15-May,Wed,4pm,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League
-16-May,Thu,8pm,Kings XI Punjab vs Delhi Daredevils,Dharamsala,League
-17-May,Fri,4pm,Kings XI Punjab vs Mumbai Indians,Dharamsala,League
-17-May,Fri,8pm,Sunrisers Hyderabad vs Rajasthan Royals,Hyderabad,League
-18-May,Sat,4pm,Pune Warriors India vs Chennai Super Kings,Pune,League
-18-May,Sat,8pm,Royal Challengers Bangalore vs Mumbai Indians,Bangalore,League
-19-May,Sun,8pm,Sunrisers Hyderabad vs Kolkata Knight Riders,Hyderabad,League
-21-May,Tue,8pm,First Placed Team vs Second Placed Team,Chennai,Qualifier 1
-22-May,Wed,8pm,Third Placed Team vs Fourth Placed Team,Chennai,Eliminator
-24-May,Fri,8pm,Winner of Eliminator vs Loser of Qualifier 1,Kolkata,Qualifier 2
-26-May,Sun,8pm,Winner of Qualifier 1 vs Winner of Qualifier 2,Kolkata,Final
+Date,Year,Time,Teams,Venue,Match Type,Result
+03-Apr,2013,8pm,Kolkata Knight Riders vs Delhi Daredevils,Kolkata,League,
+04-Apr,2013,8pm,Royal Challengers Bangalore vs Mumbai Indians,Bangalore,League,
+05-Apr,2013,8pm,Sunrisers Hyderabad vs Pune Warriors India,Hyderabad,League,
+06-Apr,2013,4pm,Delhi Daredevils vs Rajasthan Royals,Delhi,League,
+06-Apr,2013,8pm,Chennai Super Kings vs Mumbai Indians,Chennai,League,
+07-Apr,2013,4pm,Pune Warriors India vs Royal Challengers Bangalore,Pune,League,
+07-Apr,2013,8pm,Sunrisers Hyderabad vs Kolkata Knight Riders,Hyderabad,League,
+08-Apr,2013,8pm,Rajasthan Royals vs Kings XI Punjab,Jaipur,League,
+09-Apr,2013,8pm,Mumbai Indians vs Delhi Daredevils,Mumbai,League,
+10-Apr,2013,8pm,Kings XI Punjab vs Chennai Super Kings,Mohali,League,
+11-Apr,2013,4pm,Royal Challengers Bangalore vs Kolkata Knight Riders,Bangalore,League,
+11-Apr,2013,8pm,Pune Warriors India vs Rajasthan Royals,Pune,League,
+12-Apr,2013,8pm,Delhi Daredevils vs Sunrisers Hyderabad,Delhi,League,
+13-Apr,2013,4pm,Mumbai Indians vs Pune Warriors India,Mumbai,League,
+13-Apr,2013,8pm,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League,
+14-Apr,2013,4pm,Kolkata Knight Riders vs Sunrisers Hyderabad,Kolkata,League,
+14-Apr,2013,8pm,Rajasthan Royals vs Kings XI Punjab,Jaipur,League,
+15-Apr,2013,8pm,Chennai Super Kings vs Kings XI Punjab,Chennai,League,
+16-Apr,2013,4pm,Kings XI Punjab vs Royal Challengers Bangalore,Mohali,League,
+16-Apr,2013,8pm,Rajasthan Royals vs Pune Warriors India,Jaipur,League,
+17-Apr,2013,4pm,Delhi Daredevils vs Kolkata Knight Riders,Delhi,League,
+17-Apr,2013,8pm,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League,
+18-Apr,2013,8pm,Pune Warriors India vs Chennai Super Kings,Pune,League,
+19-Apr,2013,4pm,Royal Challengers Bangalore vs Kings XI Punjab,Bangalore,League,
+19-Apr,2013,8pm,Delhi Daredevils vs Rajasthan Royals,Delhi,League,
+20-Apr,2013,4pm,Kolkata Knight Riders vs Mumbai Indians,Kolkata,League,
+20-Apr,2013,8pm,Royal Challengers Bangalore vs Chennai Super Kings,Bangalore,League,
+21-Apr,2013,4pm,Delhi Daredevils vs Pune Warriors India,Delhi,League,
+22-Apr,2013,8pm,Kings XI Punjab vs Rajasthan Royals,Mohali,League,
+23-Apr,2013,4pm,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League,
+23-Apr,2013,8pm,Kolkata Knight Riders vs Delhi Daredevils,Kolkata,League,
+24-Apr,2013,8pm,Chennai Super Kings vs Sunrisers Hyderabad,Chennai,League,
+25-Apr,2013,8pm,Kolkata Knight Riders vs Kings XI Punjab,Kolkata,League,
+26-Apr,2013,4pm,Rajasthan Royals vs Sunrisers Hyderabad,Jaipur,League,
+27-Apr,2013,8pm,Mumbai Indians vs Royal Challengers Bangalore,Mumbai,League,
+28-Apr,2013,4pm,Chennai Super Kings vs Kolkata Knight Riders,Chennai,League,
+28-Apr,2013,8pm,Delhi Daredevils vs Pune Warriors India,Raipur,League,
+29-Apr,2013,4pm,Rajasthan Royals vs Royal Challengers Bangalore,Jaipur,League,
+29-Apr,2013,8pm,Mumbai Indians vs Kings XI Punjab,Mumbai,League,
+30-Apr,2013,8pm,Pune Warriors India vs Chennai Super Kings,Pune,League,
+30-Apr,2013,4pm,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League,
+01-May,2013,8pm,Delhi Daredevils vs Kolkata Knight Riders,Raipur,League,
+02-May,2013,4pm,Chennai Super Kings vs Kings XI Punjab,Chennai,League,
+02-May,2013,8pm,Pune Warriors India vs Royal Challengers Bangalore,Pune,League,
+03-May,2013,8pm,Kolkata Knight Riders vs Rajasthan Royals,Kolkata,League,
+04-May,2013,4pm,Sunrisers Hyderabad vs Delhi Daredevils,Hyderabad,League,
+04-May,2013,8pm,Royal Challengers Bangalore vs Kings XI Punjab,Bangalore,League,
+05-May,2013,4pm,Mumbai Indians vs Chennai Super Kings,Mumbai,League,
+05-May,2013,8pm,Rajasthan Royals vs Sunrisers Hyderabad,Jaipur,League,
+06-May,2013,8pm,Royal Challengers Bangalore vs Delhi Daredevils,Bangalore,League,
+07-May,2013,4pm,Rajasthan Royals vs Sunrisers Hyderabad,Jaipur,League,
+07-May,2013,8pm,Mumbai Indians vs Kolkata Knight Riders,Mumbai,League,
+08-May,2013,8pm,Sunrisers Hyderabad vs Chennai Super Kings,Hyderabad,League,
+09-May,2013,4pm,Kings XI Punjab vs Rajasthan Royals,Mohali,League,
+09-May,2013,8pm,Pune Warriors India vs Kolkata Knight Riders,Pune,League,
+10-May,2013,8pm,Delhi Daredevils vs Royal Challengers Bangalore,Delhi,League,
+11-May,2013,4pm,Pune Warriors India vs Mumbai Indians,Pune,League,
+11-May,2013,8pm,Kings XI Punjab vs Sunrisers Hyderabad,Mohali,League,
+12-May,2013,4pm,Kolkata Knight Riders vs Royal Challengers Bangalore,Ranchi,League,
+12-May,2013,8pm,Rajasthan Royals vs Chennai Super Kings,Jaipur,League,
+13-May,2013,8pm,Delhi Daredevils vs Mumbai Indians,Mumbai,League,
+14-May,2013,8pm,Kings XI Punjab vs Sunrisers Hyderabad,Dharamsala,League,
+15-May,2013,8pm,Kolkata Knight Riders vs Delhi Daredevils,Chennai,League,
+16-May,2013,4pm,Mumbai Indians vs Chennai Super Kings,Mumbai,League,
+16-May,2013,8pm,Kings XI Punjab vs Royal Challengers Bangalore,Dharamsala,League,
+17-May,2013,8pm,Sunrisers Hyderabad vs Rajasthan Royals,Hyderabad,League,
+18-May,2013,4pm,Kings XI Punjab vs Mumbai Indians,Dharamsala,League,
+18-May,2013,8pm,Pune Warriors India vs Delhi Daredevils,Pune,League,
+19-May,2013,8pm,Royal Challengers Bangalore vs Sunrisers Hyderabad,Bangalore,League,
+21-May,2013,8pm,First Placed Team vs Second Placed Team,Chennai,Qualifier 1,
+22-May,2013,8pm,Third Placed Team vs Fourth Placed Team,Chennai,Eliminator,
+24-May,2013,8pm,Winner of Eliminator vs Loser of Qualifier 1,Kolkata,Qualifier 2,
+26-May,2013,8pm,Winner of Qualifier 1 vs Winner of Qualifier 2,Kolkata,Final,
 Winner of season: Mumbai Indians
 2013

@@ -1,63 +1,64 @@
-Date,Time,Match,Home Team,Away Team,Venue
-05-April,8pm,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad
-06-April,8pm,2,Rising Pune Supergiant,Mumbai Indians,Pune
-07-April,8pm,3,Gujarat Lions,Kolkata Knight Riders,Rajkot
-07-April,4pm,4,Kings XI Punjab,Rising Pune Supergiant,Indore
-08-April,8pm,5,Royal Challengers Bangalore,Delhi Daredevils,Bengaluru
-08-April,4pm,6,Sunrisers Hyderabad,Gujarat Lions,Hyderabad
-09-April,8pm,7,Mumbai Indians,Kolkata Knight Riders,Mumbai
-10-April,8pm,8,Kings XI Punjab,Royal Challengers Bangalore,Indore
-11-April,8pm,9,Rising Pune Supergiant,Delhi Daredevils,Pune
-12-April,8pm,10,Mumbai Indians,Sunrisers Hyderabad,Mumbai
-13-April,8pm,11,Kings XI Punjab,Delhi Daredevils,Kolkata
-13-April,4pm,12,Kolkata Knight Riders,Rising Pune Supergiant,Delhi
-14-April,8pm,13,Royal Challengers Bangalore,Sunrisers Hyderabad,Bengaluru
-14-April,4pm,14,Gujarat Lions,Mumbai Indians,Rajkot
-15-April,8pm,15,Kolkata Knight Riders,Kings XI Punjab,Kolkata
-15-April,4pm,16,Delhi Daredevils,Rising Pune Supergiant,Delhi
-16-April,8pm,17,Mumbai Indians,Gujarat Lions,Mumbai
-16-April,4pm,18,Royal Challengers Bangalore,Kings XI Punjab,Bengaluru
-17-April,8pm,19,Delhi Daredevils,Rising Pune Supergiant,Delhi
-18-April,8pm,20,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad
-19-April,8pm,21,Gujarat Lions,Kings XI Punjab,Rajkot
-20-April,8pm,22,Kolkata Knight Riders,Mumbai Indians,Kolkata
-20-April,4pm,24,Delhi Daredevils,Gujarat Lions,Delhi
-21-April,8pm,23,Kings XI Punjab,Mumbai Indians,Indore
-22-April,8pm,25,Rising Pune Supergiant,Royal Challengers Bangalore,Pune
-22-April,4pm,26,Gujarat Lions,Kings XI Punjab,Rajkot
-23-April,8pm,27,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata
-24-April,8pm,28,Mumbai Indians,Rising Pune Supergiant,Mumbai
-25-April,8pm,29,Royal Challengers Bangalore,Sunrisers Hyderabad,Bengaluru
-26-April,8pm,30,Rising Pune Supergiant,Kolkata Knight Riders,Pune
-27-April,8pm,31,Royal Challengers Bangalore,Gujarat Lions,Bengaluru
-28-April,4pm,32,Kolkata Knight Riders,Delhi Daredevils,Kolkata
-28-April,8pm,33,Kings XI Punjab,Sunrisers Hyderabad,Mohali
-29-April,4pm,34,Rising Pune Supergiant,Royal Challengers Bangalore,Pune
-29-April,8pm,35,Gujarat Lions,Mumbai Indians,Rajkot
-30-April,4pm,36,Kings XI Punjab,Delhi Daredevils,Mohali
-30-April,8pm,37,Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad
-01-May,4pm,38,Mumbai Indians,Royal Challengers Bangalore,Mumbai
-01-May,8pm,39,Rising Pune Supergiant,Gujarat Lions,Pune
-02-May,8pm,40,Delhi Daredevils,Sunrisers Hyderabad,Delhi
-03-May,8pm,41,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata
-04-May,8pm,42,Delhi Daredevils,Gujarat Lions,Delhi
-05-May,8pm,43,Royal Challengers Bangalore,Kings XI Punjab,Bengaluru
-06-May,4pm,44,Sunrisers Hyderabad,Rising Pune Supergiant,Hyderabad
-06-May,8pm,45,Mumbai Indians,Delhi Daredevils,Mumbai
-07-May,4pm,46,Royal Challengers Bangalore,Kolkata Knight Riders,Bengaluru
-07-May,8pm,47,Kings XI Punjab,Gujarat Lions,Mohali
-08-May,8pm,48,Sunrisers Hyderabad,Mumbai Indians,Hyderabad
-09-May,8pm,49,Kings XI Punjab,Kolkata Knight Riders,Mohali
-10-May,8pm,50,Gujarat Lions,Delhi Daredevils,Kanpur
-11-May,8pm,51,Mumbai Indians,Kings XI Punjab,Mumbai
-12-May,8pm,52,Delhi Daredevils,Rising Pune Supergiant,Delhi
-13-May,4pm,53,Gujarat Lions,Sunrisers Hyderabad,Kanpur
-13-May,8pm,54,Kolkata Knight Riders,Mumbai Indians,Kolkata
-14-May,4pm,55,Rising Pune Supergiant,Kings XI Punjab,Pune
-14-May,8pm,56,Delhi Daredevils,Royal Challengers Bangalore,Delhi
-16-May,8pm,Qualifier 1,,
-17-May,8pm,Eliminator,,
-19-May,8pm,Qualifier 2,,
-21-May,8pm,Final,,
+Date,Year,Time,Teams,Venue,Match Type,Result
+05-April,2017,8pm,Sunrisers Hyderabad vs Royal Challengers Bangalore,Hyderabad,League,
+06-April,2017,8pm,Rising Pune Supergiant vs Mumbai Indians,Pune,League,
+07-April,2017,8pm,Gujarat Lions vs Kolkata Knight Riders,Rajkot,League,
+07-April,2017,4pm,Kings XI Punjab vs Rising Pune Supergiant,Indore,League,
+08-April,2017,8pm,Royal Challengers Bangalore vs Sunrisers Hyderabad,Bengaluru,League,
+08-April,2017,4pm,Kings XI Punjab vs Gujarat Lions,Indore,League,
+09-April,2017,8pm,Mumbai Indians vs Delhi Daredevils,Mumbai,League,
+10-April,2017,8pm,Kings XI Punjab vs Royal Challengers Bangalore,Indore,League,
+11-April,2017,8pm,Rising Pune Supergiant vs Delhi Daredevils,Pune,League,
+12-April,2017,8pm,Mumbai Indians vs Sunrisers Hyderabad,Mumbai,League,
+13-April,2017,8pm,Kings XI Punjab vs Delhi Daredevils,Kolkata,League,
+13-April,2017,4pm,Kolkata Knight Riders vs Rising Pune Supergiant,Delhi,League,
+14-April,2017,8pm,Royal Challengers Bangalore vs Sunrisers Hyderabad,Bengaluru,League,
+14-April,2017,4pm,Gujarat Lions vs Mumbai Indians,Rajkot,League,
+15-April,2017,8pm,Kolkata Knight Riders vs Rising Pune Supergiant,Kolkata,League,
+15-April,2017,4pm,Delhi Daredevils vs Kings XI Punjab,Delhi,League,
+16-April,2017,8pm,Mumbai Indians vs Gujarat Lions,Mumbai,League,
+16-April,2017,4pm,Royal Challengers Bangalore vs Rising Pune Supergiant,Bengaluru,League,
+17-April,2017,8pm,Delhi Daredevils vs Sunrisers Hyderabad,Delhi,League,
+18-April,2017,8pm,Sunrisers Hyderabad vs Kings XI Punjab,Hyderabad,League,
+19-April,2017,8pm,Gujarat Lions vs Royal Challengers Bangalore,Rajkot,League,
+20-April,2017,8pm,Sunrisers Hyderabad vs Delhi Daredevils,Hyderabad,League,
+21-April,2017,8pm,Kolkata Knight Riders vs Mumbai Indians,Kolkata,League,
+21-April,2017,4pm,Kings XI Punjab vs Gujarat Lions,Indore,League,
+22-April,2017,8pm,Delhi Daredevils vs Mumbai Indians,Delhi,League,
+22-April,2017,4pm,Rising Pune Supergiant vs Kings XI Punjab,Pune,League,
+23-April,2017,8pm,Kolkata Knight Riders vs Royal Challengers Bangalore,Kolkata,League,
+23-April,2017,4pm,Gujarat Lions vs Sunrisers Hyderabad,Rajkot,League,
+24-April,2017,8pm,Mumbai Indians vs Rising Pune Supergiant,Mumbai,League,
+25-April,2017,8pm,Royal Challengers Bangalore vs Sunrisers Hyderabad,Bengaluru,League,
+26-April,2017,8pm,Rising Pune Supergiant vs Kolkata Knight Riders,Pune,League,
+27-April,2017,8pm,Royal Challengers Bangalore vs Gujarat Lions,Bengaluru,League,
+28-April,2017,4pm,Kolkata Knight Riders vs Delhi Daredevils,Kolkata,League,
+28-April,2017,8pm,Kings XI Punjab vs Sunrisers Hyderabad,Mohali,League,
+29-April,2017,4pm,Gujarat Lions vs Royal Challengers Bangalore,Rajkot,League,
+29-April,2017,8pm,Rising Pune Supergiant vs Mumbai Indians,Pune,League,
+30-April,2017,4pm,Kings XI Punjab vs Delhi Daredevils,Mohali,League,
+30-April,2017,8pm,Sunrisers Hyderabad vs Kolkata Knight Riders,Hyderabad,League,
+01-May,2017,4pm,Mumbai Indians vs Royal Challengers Bangalore,Mumbai,League,
+01-May,2017,8pm,Rising Pune Supergiant vs Gujarat Lions,Pune,League,
+02-May,2017,8pm,Delhi Daredevils vs Sunrisers Hyderabad,Delhi,League,
+03-May,2017,8pm,Kolkata Knight Riders vs Rising Pune Supergiant,Kolkata,League,
+04-May,2017,8pm,Delhi Daredevils vs Gujarat Lions,Delhi,League,
+05-May,2017,8pm,Royal Challengers Bangalore vs Kings XI Punjab,Bengaluru,League,
+05-May,2017,4pm,Sunrisers Hyderabad vs Rising Pune Supergiant,Hyderabad,League,
+06-May,2017,8pm,Mumbai Indians vs Delhi Daredevils,Mumbai,League,
+06-May,2017,4pm,Royal Challengers Bangalore vs Kolkata Knight Riders,Bengaluru,League,
+07-May,2017,8pm,Kings XI Punjab vs Gujarat Lions,Mohali,League,
+08-May,2017,8pm,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League,
+09-May,2017,8pm,Kings XI Punjab vs Kolkata Knight Riders,Mohali,League,
+10-May,2017,8pm,Gujarat Lions vs Delhi Daredevils,Kanpur,League,
+11-May,2017,8pm,Mumbai Indians vs Kings XI Punjab,Mumbai,League,
+12-May,2017,8pm,Delhi Daredevils vs Rising Pune Supergiant,Delhi,League,
+12-May,2017,4pm,Gujarat Lions vs Sunrisers Hyderabad,Kanpur,League,
+13-May,2017,8pm,Kolkata Knight Riders vs Mumbai Indians,Kolkata,League,
+13-May,2017,4pm,Rising Pune Supergiant vs Kings XI Punjab,Pune,League,
+14-May,2017,8pm,Delhi Daredevils vs Royal Challengers Bangalore,Delhi,League,
+16-May,2017,8pm, ,TBC,Qualifier 1,
+17-May,2017,8pm, ,TBC,Eliminator,
+19-May,2017,8pm, ,TBC,Qualifier 2,
+21-May,2017,8pm, ,Hyderabad,Final,
 Winner of season: Mumbai Indians
 2017

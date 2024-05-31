@@ -1,24 +1,24 @@
-Match No.,Match Day,DATE,WEEKDAY,KICK-OFF,HOME,AWAY,STADIUM
-1,1,22-03-24,Fri,8:00 PM,Chennai Super Kings,Royal Challengers Bangalore,Chennai
-2,2,23-03-24,Sat,3:30 PM,Punjab Kings,Delhi Capitals,Mohali
-3,2,23-03-24,Sat,7:30 PM,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata
-4,3,24-03-24,Sun,3:30 PM,Rajasthan Royals,Lucknow Super Giants,Jaipur
-5,3,24-03-24,Sun,7:30 PM,Gujarat Titans,Mumbai Indians,Ahmedabad
-6,4,25-03-24,Mon,7:30 PM,Royal Challengers Bangalore,Punjab Kings,Bengaluru
-7,5,26-03-24,Tue,7:30 PM,Chennai Super Kings,Gujarat Titans,Chennai
-8,6,27-03-24,Wed,7:30 PM,Sunrisers Hyderabad,Mumbai Indians,Hyderabad
-9,7,28-03-24,Thu,7:30 PM,Rajasthan Royals,Delhi Capitals,Jaipur
-10,8,29-03-24,Fri,7:30 PM,Royal Challengers Bangalore,Kolkata Knight Riders,Bengaluru
-11,9,30-03-24,Sat,7:30 PM,Lucknow Super Giants,Punjab Kings,Lucknow
-12,10,31-03-24,Sun,3:30 PM,Gujarat Titans,Mumbai Indians,Ahmedabad
-13,10,31-03-24,Sun,7:30 PM,Delhi Capitals,Chennai Super Kings,Vizag
-14,11,01-04-24,Mon,7:30 PM,Mumbai Indians,Rajasthan Royals,Mumbai
-15,12,02-04-24,Tue,7:30 PM,Royal Challengers Bangalore,Lucknow Super Giants,Bengaluru
-16,13,03-04-24,Wed,7:30 PM,Delhi Capitals,Kolkata Knight Riders,Vizag
-17,14,04-04-24,Thu,7:30 PM,Gujarat Titans,Punjab Kings,Ahmedabad
-18,15,05-04-24,Fri,7:30 PM,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad
-19,16,06-04-24,Sat,7:30 PM,Rajasthan Royals,Royal Challengers Bangalore,Jaipur
-20,17,07-04-24,Sun,3:30 PM,Mumbai Indians,Delhi Capitals,Mumbai
-21,17,07-04-24,Sun,7:30 PM,Lucknow Super Giants,Gujarat Titans,Lucknow
+Date,Year,Time,Teams,Venue,Match Type,Result
+22-03-24,2024,8:00 PM,Chennai Super Kings vs Royal Challengers Bangalore,Chennai,League,
+23-03-24,2024,3:30 PM,Punjab Kings vs Delhi Capitals,Mohali,League,
+23-03-24,2024,7:30 PM,Kolkata Knight Riders vs Sunrisers Hyderabad,Kolkata,League,
+24-03-24,2024,3:30 PM,Rajasthan Royals vs Lucknow Super Giants,Jaipur,League,
+24-03-24,2024,7:30 PM,Gujarat Titans vs Mumbai Indians,Ahmedabad,League,
+25-03-24,2024,7:30 PM,Royal Challengers Bangalore vs Punjab Kings,Bengaluru,League,
+26-03-24,2024,7:30 PM,Chennai Super Kings vs Gujarat Titans,Chennai,League,
+27-03-24,2024,7:30 PM,Sunrisers Hyderabad vs Mumbai Indians,Hyderabad,League,
+28-03-24,2024,7:30 PM,Rajasthan Royals vs Delhi Capitals,Jaipur,League,
+29-03-24,2024,7:30 PM,Royal Challengers Bangalore vs Kolkata Knight Riders,Bengaluru,League,
+30-03-24,2024,7:30 PM,Lucknow Super Giants vs Punjab Kings,Lucknow,League,
+31-03-24,2024,3:30 PM,Gujarat Titans vs Mumbai Indians,Ahmedabad,League,
+31-03-24,2024,7:30 PM,Delhi Capitals vs Chennai Super Kings,Vizag,League,
+01-04-24,2024,7:30 PM,Mumbai Indians vs Rajasthan Royals,Mumbai,League,
+02-04-24,2024,7:30 PM,Royal Challengers Bangalore vs Lucknow Super Giants,Bengaluru,League,
+03-04-24,2024,7:30 PM,Delhi Capitals vs Kolkata Knight Riders,Vizag,League,
+04-04-24,2024,7:30 PM,Gujarat Titans vs Punjab Kings,Ahmedabad,League,
+05-04-24,2024,7:30 PM,Sunrisers Hyderabad vs Chennai Super Kings,Hyderabad,League,
+06-04-24,2024,7:30 PM,Rajasthan Royals vs Royal Challengers Bangalore,Jaipur,League,
+07-04-24,2024,3:30 PM,Mumbai Indians vs Delhi Capitals,Mumbai,League,
+07-04-24,2024,7:30 PM,Lucknow Super Giants vs Gujarat Titans,Lucknow,League,
 Winner of season: 
 2024
