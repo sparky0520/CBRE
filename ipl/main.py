@@ -23,7 +23,7 @@ for i in filenames:
         os.remove(local_file_path)              # Remove pdf from local storage after uploading
 
         csv_response = ai_pdf_to_text(PROMPT,gcs_uri)   # Getting csv summary from Gemini 1.5 flash
-        with open("example.txt","a") as file:
+        with open("GeminiResponseLog.txt","a") as file:
             file.write(local_file_path+'\n\n')
             file.write(csv_response)
             file.write('\n\n\n')
