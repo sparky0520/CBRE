@@ -13,7 +13,7 @@ def upload_to_gcs(local_file_path, bucket_name, destination_blob_name):
     return gcs_uri
 
 
-BUCKET_NAME = 'ipl_schedule_pdfs'   # Google Cloud Storage Bucket
+BUCKET_NAME = 'ipl_schedule_pdfs_test'   # Google Cloud Storage Bucket
 PDF_DIR = "pdfs"    # Directory in which all pdf files are stored
 
 

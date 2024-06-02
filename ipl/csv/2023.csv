@@ -69,10 +69,9 @@ Date,Year,Time,Teams,Venue,Match Type,Result
 20-May-23,2023,7:30 PM,Kolkata Knight Riders vs Lucknow Super Giants,Kolkata,League,
 21-May-23,2023,3:30 PM,Mumbai Indians vs Sunrisers Hyderabad,Mumbai,League,
 21-May-23,2023,7:30 PM,Royal Challengers Bangalore vs Gujarat Titans,Bengaluru,League,
-23-May-23,2023,7:30 PM,Qualifier 1 - Team 1 vs Team 2,Chennai,Qualifier,
-24-May-23,2023,7:30 PM,Eliminator - Team 3 vs Team 4,Chennai,Eliminator,
-26-May-23,2023,7:30 PM,Qualifier 2 - Winner of Eliminator vs Loser of Qualifier 1,Ahmedabad,Qualifier,
+23-May-23,2023,7:30 PM,Qualifier 1 - Team 1 vs Team 2,Chennai,Playoff,
+24-May-23,2023,7:30 PM,Eliminator - Team 3 vs Team 4,Chennai,Playoff,
+26-May-23,2023,7:30 PM,Qualifier 2 - Winner of Eliminator vs Loser of Qualifier 1,Ahmedabad,Playoff,
 28-May-23,2023,7:30 PM,TATA IPL 2023 Final - Winner of Qualifier 1 vs. Winner of Qualifier 2,Ahmedabad,Final,
-""
-Winner of season: Gujarat Titans
+Winner of season: Chennai Super Kings
 2023

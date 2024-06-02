@@ -36,17 +36,11 @@ def write_csv(rows, filename):
 
 
 PROMPT = """
-Please extract the IPL schedule data from the provided PDF and convert it into the following CSV format:
-    - Columns: Date, Year, Time, Teams, Venue, Match Type, Result
-- Identify and map any headers found in the PDF to these columns. For example:
-  - "Match no, Match day, Date, Weekday, Kick-off, Home, Away, Stadium" should be mapped appropriately.
-  - If headers are different, determine the best fit for the standardized columns.
-- For "Teams," combine any "Home" and "Away" team names or equivalent into a single "Teams" column.
-- Ensure that no data under any header contains commas, as this will be saved as a CSV file. Replace commas with spaces where necessary.
-- Extract and accurately place the year of the season.
+Please extract the IPL schedule data from the provided PDF and convert it into CSV format:
+- Ensure no data in the PDF contains commas. Replace commas with spaces before converting to CSV format.
+- Accurately extract and place the year of the season.
 - Extract and include the winner of the IPL season, placing this information after the last match record.
 - Ensure all fields are accurately populated without extra whitespace or missing values.
-- If any data is missing or unclear, make the best possible estimation based on the provided information.
 
 Example CSV format:
 Date, Year, Time, Teams, Venue, Match Type, Result
@@ -56,4 +50,5 @@ March 23 2019, 2019, 8:00 PM IST, Chennai Super Kings vs Royal Challengers Banga
 Winner of season: Mumbai Indians
 2019
 """
+
 CSV_DIR = 'csv'  # Directory in which all csv files are stored.
