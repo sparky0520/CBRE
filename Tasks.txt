@@ -13,8 +13,17 @@ Case: There is a legacy app. The company wants to make a new app. Should the com
 - Go through the CBRE website and note all the services and info about CBRE. 
 
 4. 
-- Project: Webscrape through filetype:pdf and search for IPL. Get the IPL matches schedule and winner for each year. Give output for all years in a table.
+- Project: Web-scrape through filetype:pdf and search for IPL. Get the IPL matches schedule and winner for each year. Give output for all years in a table.
 
+5.
+- Project: BSE Newsletter
+
+	- Go to "bseindia.com/corporates/ann.html"
+	- In form data, put:	Category: Corp. Action
+	- Get all the news related to "Bonus" and "Dividend" from the pdfs (or API if there).
+	- Send the news summary:
+		Company Name, Date, Subject/Heading of news, News details such as how much, when, why - dividend/bonus and any other details also if there.
+	- Send this arranged neatly at a pseudo random interval (15 to 30 minutes; so that connection doesn't get blocked) to an email as a newsletter.
 
 -------------------------------------------------------------------------
 1. Use CBRE fonts and colours in your next PPT 
