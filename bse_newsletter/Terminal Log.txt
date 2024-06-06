@@ -1,0 +1,55 @@
+(env) PS C:\Users\darsh\OneDrive\Documents\GitHub\CBRE\bse_newsletter> python .\main.py
+Sending News....
+
+DevTools listening on ws://127.0.0.1:61878/devtools/browser/63773f4d-753f-4271-a653-4f49193138be
+[0606/201123.422:INFO:CONSOLE(0)] "Failed to set referrer policy: The value 'no-referrer | same-origin | origin | strict-origin | no-origin-when-downgrading' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.", source:  (0)
+[0606/201123.422:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'vibrate'.", source:  (0)
+[0606/201123.422:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'usermedia'.", source:  (0)
+[0606/201124.338:INFO:CONSOLE(935)] "Uncaught ReferenceError: B is not defined", source:  (935)
+[0606/201124.345:INFO:CONSOLE(151)] "TypeError: ops.setCallbacks is not a function", source: https://www.bseindia.com/D90/Controller/Headernew_streamController.js?v2=220420241800 (151)
+[0606/201124.713:INFO:CONSOLE(74)] "Connected", source: https://www.bseindia.com/D90/Controller/factoryother.js?v=220420241800 (74)
+[0606/201124.745:INFO:CONSOLE(24)] "[GPT] Attempted to load GPT multiple times.
+https://goo.gle/gpt-message#152", source: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202406030101/pubads_impl.js?cb=31084239 (24)
+[0606/201124.974:INFO:CONSOLE(74)] "Connected", source: https://www.bseindia.com/D90/Controller/factoryother.js?v=220420241800 (74)
+corp_actions_html execution complete
+parse_results execution complete
+dividend_or_bonus_filter execution complete
+get_pdf_links execution complete
+Downloaded: pdf\fc7cd336-fe00-4a2b-9163-dc3d1b68debb.pdf
+download_pdf execution complete
+get_pdf_links execution complete
+Downloaded: pdf\3f7a4222-daf8-4b9a-a13b-58c3adfb85e4.pdf
+download_pdf execution complete
+get_pdf_links execution complete
+Downloaded: pdf\0d0dc818-4007-4f50-a28f-23d87c437cc6.pdf
+download_pdf execution complete
+get_pdf_links execution complete
+Downloaded: pdf\74426e69-7782-4090-8146-4da9561c4fc5.pdf
+download_pdf execution complete
+Uploaded PDF to gs://bse-newsletter-test/pdf/0d0dc818-4007-4f50-a28f-23d87c437cc6.pdf
+Removed pdf\0d0dc818-4007-4f50-a28f-23d87c437cc6.pdf
+Upload to gcs completed.
+Uploaded PDF to gs://bse-newsletter-test/pdf/3f7a4222-daf8-4b9a-a13b-58c3adfb85e4.pdf
+Removed pdf\3f7a4222-daf8-4b9a-a13b-58c3adfb85e4.pdf
+Upload to gcs completed.
+Uploaded PDF to gs://bse-newsletter-test/pdf/74426e69-7782-4090-8146-4da9561c4fc5.pdf
+Removed pdf\74426e69-7782-4090-8146-4da9561c4fc5.pdf
+Upload to gcs completed.
+Uploaded PDF to gs://bse-newsletter-test/pdf/fc7cd336-fe00-4a2b-9163-dc3d1b68debb.pdf
+Removed pdf\fc7cd336-fe00-4a2b-9163-dc3d1b68debb.pdf
+Upload to gcs completed.
+Generated content successfully
+Finished ai_summary
+Generated content successfully
+Finished ai_summary
+Generated content successfully
+Finished ai_summary
+Generated content successfully
+Finished ai_summary
+Sending email...
+successfully sent the mail
+Sleeping for 15 minutes
+Traceback (most recent call last):
+  File "C:\Users\darsh\OneDrive\Documents\GitHub\CBRE\bse_newsletter\main.py", line 12, in <module>
+    time.sleep(interval_seconds)
+KeyboardInterrupt
