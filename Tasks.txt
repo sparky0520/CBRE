@@ -24,9 +24,14 @@ Case: There is a legacy app. The company wants to make a new app. Should the com
 	- Send the news summary:
 		Company Name, Date, Subject/Heading of news, News details such as how much, when, why - dividend/bonus and any other details also if there.
 	- Send this arranged neatly at a pseudo random interval (15 to 30 minutes; so that connection doesn't get blocked) to an email as a newsletter.
+	
+	- Make this an exe file and try to make the project code (web scraping part) more robust.
+	- Make gCloud access for all and Gemini Rate Increase.
+	- Make WhatsApp bot version too.
+
 
 -------------------------------------------------------------------------
 1. Use CBRE fonts and colours in your next PPT 
 2. Don't get nervous.
 3. Don't skip slides. Explain everything you included.
-4. Clear your doubts regarding the problem statement once again (and show the initial slides for corrections).
+4. Clear your doubts regarding the problem statement once again (and show the initial slides for corrections

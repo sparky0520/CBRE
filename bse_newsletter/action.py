@@ -30,7 +30,7 @@ def send_news():
         link = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/" + link.split("/")[-1]
         summary = ai_result + link
         # Logging response
-        with open('GeminiResponseLog.txt', 'a') as file:
+        with open('GeminiResponseLog.txt', 'a', encoding='utf-8') as file:
             file.write('')
             file.write(summary + '\n\n')
         mail_body += f"{summary}\n\n\n\n"

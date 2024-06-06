@@ -89,7 +89,7 @@ def dividend_or_bonus_filter(target_td):
         valid_tables = []
         if content:
             for i in content:
-                if "bonus":# in i.string.lower() or "dividend" in i.string.lower():
+                if "bonus" in i.string.lower() or "dividend" in i.string.lower():
                     valid_tables.append(str(i.find_parent("table")))
             return valid_tables
         else:
