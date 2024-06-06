@@ -31,6 +31,7 @@ def send_news():
         summary = ai_result + link
         # Logging response
         with open('GeminiResponseLog.txt', 'a') as file:
+            file.write('')
             file.write(summary + '\n\n')
         mail_body += f"{summary}\n\n\n\n"
 
