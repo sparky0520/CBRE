@@ -1,7 +1,6 @@
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part
 
-
 # TODO(developer): Update and un-comment below lines
 project_id = "bse-newsletter"
 
@@ -24,27 +23,30 @@ def ai_summary(prompt, pdf_file_uri):
         print("Finished ai_summary")
 
 
-PROMPT = """Instructions:
+PROMPT = """
+Instructions:
 
-You will be given details of corporate actions from various companies, provided as PDF documents. Your task is to extract the relevant information from the PDF and create a brief summary for each corporate action, formatted for a newsletter. Each summary should include the essential details and a brief closing remark, prompting the reader to click for more information. Ensure that the response is consistent in format and tone. The "click here" button should be a hyperlink to https://www.bseindia.com/xml-data/corpfiling/AttachLive/ followed by the name of the PDF file.
-
-Your Task:
-
-Using the provided corporate action details in the PDF, extract the relevant information and create a summary in the format shown in the example. Ensure each section is concise, informative, and prompts the reader to click for more information. Maintain a consistent tone and structure throughout. Use https://www.bseindia.com/xml-data/corpfiling/AttachLive/ followed by the name of the PDF file for the "click here" hyperlink.
+Using the provided corporate action details in the PDF, extract the relevant information and create a summary in the format shown in the example. Ensure each section is concise, informative, and prompts the reader to click for more information. Maintain a consistent tone and structure throughout.
 
 Here is an example summary for the provided PDF:
 
-Saurashtra Cement Limited: Corporate Actions Update
-Date: June 05, 2024
-
-Key Corporate Announcements:
-66th Annual General Meeting (AGM)
-Date: Wednesday, 21st August 2024
-Book Closure: 15th August 2024 - 21st August 2024
-Record Date for Final Dividend: 14th August 2024
-Purpose: Conduct AGM and approve final dividend for FY 2023-24
-For detailed information, click the below link.
-
-Stay tuned for more updates and ensure your contact details are up to date to receive timely notifications. Thank you for staying informed with our updates.
-
+<html>
+    <head></head>
+    <body>
+        <p><strong>Saurashtra Cement Limited: Corporate Actions Update</strong></p>
+        <p><strong>Date:</strong> June 05, 2024</p>
+        <p><strong>Key Corporate Announcements:</strong></p>
+        <ul>
+            <li><strong>66th Annual General Meeting (AGM)</strong></li>
+            <ul>
+                <li><strong>Date:</strong> Wednesday, 21st August 2024</li>
+                <li><strong>Book Closure:</strong> 15th August 2024 - 21st August 2024</li>
+                <li><strong>Record Date for Final Dividend:</strong> 14th August 2024</li>
+                <li><strong>Purpose:</strong> Conduct AGM and approve final dividend for FY 2023-24</li>
+            </ul>
+        </ul>
+        <p>For detailed information, click the below link.</p>
+        <p>Stay tuned for more updates and ensure your contact details are up to date to receive timely notifications. Thank you for staying informed with our updates.</p>
+    </body>
+</html>
 """

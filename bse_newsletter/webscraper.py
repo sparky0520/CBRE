@@ -89,7 +89,7 @@ def dividend_or_bonus_filter(target_td):
         valid_tables = []
         if content:
             for i in content:
-                if "bonus" in i.string.lower() or "dividend" in i.string.lower():
+                if "bonus":# in i.string.lower() or "dividend" in i.string.lower():
                     valid_tables.append(str(i.find_parent("table")))
             return valid_tables
         else:
@@ -107,7 +107,8 @@ def get_pdf_links(announcement_table):
         a_tag = soup.find("a", attrs={
             "target": "_blank",
             "class": "tablebluelink"})
-        return "https://www.bseindia.com" + a_tag.get('href')
+        if a_tag:
+            return "https://www.bseindia.com" + a_tag.get('href')
 
     except Exception as e:
         print(f"Exception in get_pdf_links (in webscraping.py): {e}")
