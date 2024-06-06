@@ -8,7 +8,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def get_pdf_links():
+# Returns the html response received after selecting Corp. Action and Clicking submit on 
+# bseindia.com/corporates/ann.html
+def corp_actions_html():
     try:
         # Replace with the path to your ChromeDriver
         options = webdriver.ChromeOptions()
@@ -53,32 +55,21 @@ def get_pdf_links():
 
         # Close the browser
         driver.quit()
-
-        # Processing the HTML content further using Beautiful Soup
-        target_td = parse_results(html_content)
-        announcement_tables = target_td.table.tbody.contents[6]  # tr tag in which there are announcement tables
-
-        # print(announcement_tables)
-
-        a_tags = announcement_tables.find_all("a", attrs={
-            "target": "_blank",
-            "class": "tablebluelink"})  # A list of pdf params like: bseindia.com{/xml-data... for eg.}
-        return a_tags
-
+        return html_content
     except Exception as e:
-        print(f"Exception in get_pdf_links (in webscraping.py): {e}")
+        print(f"Exception in corp_actions_html (in webscraping.py): {e}")
     finally:
-        print("get_pdf_links execution complete")
+        print("corp_actions_html execution complete")
 
 
-# Returns the td tag containing the table for all announcement records
-def parse_results(search_results_page):
+# Returns the td tag containing all the tables of corp action announcements
+def parse_results(html_content):
     try:
-        soup = BeautifulSoup(search_results_page, 'html.parser')
-        target_td = soup.find('td', id="lblann")  # This will return the matching td element
+        soup = BeautifulSoup(html_content, 'html.parser')
+        target_td = soup.find('td', id="lblann")  # This will return the matching td element (main)
+        target_td = target_td.table.tbody.contents[6].td  # td tag in which there are announcement tables (descendent)
         if target_td:
-            print("Parse Results Received!")
-            return target_td
+            return str(target_td)
         else:
             raise "Parse Results Not Received!"
 
@@ -88,18 +79,56 @@ def parse_results(search_results_page):
         print("parse_results execution complete")
 
 
+# Returns a list containing the announcement tables containing dividend or bonus keywords
+def dividend_or_bonus_filter(target_td):
+    try:
+        soup = BeautifulSoup(target_td, "html.parser")
+        content = soup.find_all('span', attrs={
+            'ng-bind-html': "cann.HEADLINE"
+        })
+        valid_tables = []
+        if content:
+            for i in content:
+                if "bonus" in i.string.lower() or "dividend" in i.string.lower():
+                    valid_tables.append(str(i.find_parent("table")))
+            return valid_tables
+        else:
+            print("No Span tags found (dividend_or_bonus_filter in webscraper.py)")
+    except Exception as e:
+        print(f"Exception in dividend_or_bonus_filter (in webscraper.py): {e}")
+    finally:
+        print("dividend_or_bonus_filter execution complete")
+
+
+# Takes an announcement table html and gives pdf link (param)
+def get_pdf_links(announcement_table):
+    try:
+        soup = BeautifulSoup(announcement_table, "html.parser")
+        a_tag = soup.find("a", attrs={
+            "target": "_blank",
+            "class": "tablebluelink"})
+        return "https://www.bseindia.com" + a_tag.get('href')
+
+    except Exception as e:
+        print(f"Exception in get_pdf_links (in webscraping.py): {e}")
+    finally:
+        print("get_pdf_links execution complete")
+
+
 # Download Pdf files and save them locally
 def download_pdf(url, output_dir):
     try:
-        response = requests.get(f"https://www.bseindia.com{url}")
+        headers = {  # Required to simulate a browser sending a request
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers)
         if response.status_code == 200:
             filepath = os.path.join(output_dir, url.split('/')[-1])
             with open(filepath, 'wb') as file:
                 file.write(response.content)
             print(f"Downloaded: {filepath}")
         else:
-            raise f"Failed to download: {url} (download_pdf in webscraper.py)"
-
+            print(f"Error Status Code: {response.status_code}")
     except Exception as e:
         print(f"Exception in download_pdf (in webscraping.py): {e}")
     finally:
