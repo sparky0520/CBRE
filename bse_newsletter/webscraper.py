@@ -20,9 +20,9 @@ def corp_actions_html():
         # Navigate to the website
         driver.get("https://www.bseindia.com/corporates/ann.html")
 
-        # Wait for the category dropdown to be present
+        # Wait for all elements till submit button to be present
         WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.ID, "btnSubmit")))
+            EC.presence_of_element_located((By.NAME, "submit")))
 
         category_dropdown = driver.find_element(By.ID, "ddlPeriod")
 
@@ -32,30 +32,24 @@ def corp_actions_html():
         select_category = Select(category_dropdown)
         select_category.select_by_visible_text("Corp. Action")
 
-        # Find all elements with the ID "btnSubmit"
-        submit_buttons = driver.find_elements(By.ID, "btnSubmit")
+        # Find input button with the NAME "submit"
+        submit_button = driver.find_element(By.NAME, "submit")
 
-        # We want the first button (Submit button):
-        if len(submit_buttons) > 0:
-            first_submit_button = submit_buttons[0]
+        # Scrolling to the element in case it's outside the viewport
+        driver.execute_script("arguments[0].scrollIntoView();", submit_button)
 
-            # Scrolling to the element in case it's outside the viewport
-            driver.execute_script("arguments[0].scrollIntoView();", first_submit_button)
-
-            # Using Actions class for a more controlled click attempt
-            actions = ActionChains(driver)
-            actions.move_to_element(first_submit_button).click().perform()
+        # Using Actions class for a more controlled click attempt
+        actions = ActionChains(driver)
+        actions.move_to_element(submit_button).click().perform()
 
         # Wait after reload till the records td tag is loaded
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.ID, "lblann")))
 
-        # Get the HTML content of the entire page
         html_content = driver.page_source
-
         # Close the browser
         driver.quit()
-        return html_content
+        return str(html_content)
     except Exception as e:
         print(f"Exception in corp_actions_html (in webscraping.py): {e}")
     finally:
@@ -86,11 +80,16 @@ def dividend_or_bonus_filter(target_td):
         content = soup.find_all('span', attrs={
             'ng-bind-html': "cann.HEADLINE"
         })
+
+        def filter_func(span_tag):
+            lower_text = span_tag.string.lower()
+            return "bonus" in lower_text or "dividend" in lower_text
+
         valid_tables = []
         if content:
-            for i in content:
-                if "bonus" in i.string.lower() or "dividend" in i.string.lower():
-                    valid_tables.append(str(i.find_parent("table")))
+            valid_spans = filter(filter_func, content)
+            for span in valid_spans:
+                valid_tables.append(str(span.find_parent('table')))
             return valid_tables
         else:
             print("No Span tags found (dividend_or_bonus_filter in webscraper.py)")
@@ -108,8 +107,7 @@ def get_pdf_links(announcement_table):
             "target": "_blank",
             "class": "tablebluelink"})
         if a_tag:
-            return "https://www.bseindia.com" + a_tag.get('href')
-
+            return str("https://www.bseindia.com" + a_tag.get('href'))
     except Exception as e:
         print(f"Exception in get_pdf_links (in webscraping.py): {e}")
     finally:
