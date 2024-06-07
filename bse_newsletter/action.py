@@ -36,4 +36,7 @@ def send_news():
         mail_body += f"{summary}\n\n\n\n"
 
     # Mailing the mail_body to target
-    send_email(SENDER, APP_PASSWORD, SENDER, SUBJECT, mail_body)
+    if mail_body:
+        send_email(SENDER, APP_PASSWORD, SENDER, SUBJECT, mail_body)
+    else:
+        print("\n***No updates to mail.***\n")

@@ -1,0 +1,15 @@
+Changes made to BSE Newsletter Project:
+
+1. Increasing Robustness: 
+
+Using name to get PageElement in BeautifulSoup instead of id where name is unique to that element and id is not (submit button)
+
+Checked and implemented type conversions whereever needed
+
+	Considered xpath also but 
+		- using properties such as (id, name) where more readable, maintainable and fast because of beautiful soup.
+		- If html structure changes - xpath (full xpath) will break, if property values (id,name) are changed then that will break, if xpath(relative) is used then changing anything will break.
+
+2. Tried to implement: Click all Read More.. anchor tags but some server side error is hindering (sv is not defined).
+
+3. Used filter method in dividend_or_bonus_filter() function.

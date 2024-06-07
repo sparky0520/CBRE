@@ -8,6 +8,6 @@ while True:
     interval = random.randint(15, 30)
     interval_seconds = interval * 60
     # Wait for that amount of time
-    print(f"Sleeping for {interval} minutes")
+    print(f"----------------\nSleeping for {interval} minutes\n----------------")
     time.sleep(interval_seconds)
     send_news()
