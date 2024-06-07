@@ -20,27 +20,27 @@ def corp_actions_html():
         # Navigate to the website
         driver.get("https://www.bseindia.com/corporates/ann.html")
 
-        # Wait for all elements till submit button to be present
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.NAME, "submit")))
-
-        category_dropdown = driver.find_element(By.ID, "ddlPeriod")
-
-        # Select "Corp. Action" from the dropdown
-        from selenium.webdriver.support.ui import Select
-
-        select_category = Select(category_dropdown)
-        select_category.select_by_visible_text("Corp. Action")
-
-        # Find input button with the NAME "submit"
-        submit_button = driver.find_element(By.NAME, "submit")
-
-        # Scrolling to the element in case it's outside the viewport
-        driver.execute_script("arguments[0].scrollIntoView();", submit_button)
-
-        # Using Actions class for a more controlled click attempt
-        actions = ActionChains(driver)
-        actions.move_to_element(submit_button).click().perform()
+        # # Wait for all elements till submit button to be present
+        # WebDriverWait(driver, 10).until(
+        #     EC.presence_of_element_located((By.NAME, "submit")))
+        #
+        # category_dropdown = driver.find_element(By.ID, "ddlPeriod")
+        #
+        # # Select "Corp. Action" from the dropdown
+        # from selenium.webdriver.support.ui import Select
+        #
+        # select_category = Select(category_dropdown)
+        # select_category.select_by_visible_text("Corp. Action")
+        #
+        # # Find input button with the NAME "submit"
+        # submit_button = driver.find_element(By.NAME, "submit")
+        #
+        # # Scrolling to the element in case it's outside the viewport
+        # driver.execute_script("arguments[0].scrollIntoView();", submit_button)
+        #
+        # # Using Actions class for a more controlled click attempt
+        # actions = ActionChains(driver)
+        # actions.move_to_element(submit_button).click().perform()
 
         # Wait after reload till the records td tag is loaded
         WebDriverWait(driver, 10).until(
@@ -83,7 +83,7 @@ def dividend_or_bonus_filter(target_td):
 
         def filter_func(span_tag):
             lower_text = span_tag.string.lower()
-            return "bonus" in lower_text or "dividend" in lower_text
+            return "bonus" #in lower_text or "dividend" in lower_text
 
         valid_tables = []
         if content:

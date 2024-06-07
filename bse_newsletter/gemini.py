@@ -1,3 +1,4 @@
+import google.api_core.exceptions
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part
 
@@ -17,8 +18,12 @@ def ai_summary(prompt, pdf_file_uri):
         if response:
             print("Generated content successfully")
             return response.text
+    except google.api_core.exceptions.ResourceExhausted as e:  # Catch the actual exception
+        print(f"Quota exceeded for Gemini: {e}")
+        pass
     except Exception as e:
         print(f"Error in Gemini Response (ai_summary in gemini.py): {e}")
+        pass
     finally:
         print("Finished ai_summary")
 
