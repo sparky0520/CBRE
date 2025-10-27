@@ -2,8 +2,8 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-SENDER = "svno863@gmail.com"
-APP_PASSWORD = "ldrzhdcdzajonnuq"
+SENDER = "YOUR EMAIL HERE"
+APP_PASSWORD = "YOUR APP PASSWORD HERE"
 
 SUBJECT = "BSE Insights: Recent Dividends and Bonuses You Should Know"
 
